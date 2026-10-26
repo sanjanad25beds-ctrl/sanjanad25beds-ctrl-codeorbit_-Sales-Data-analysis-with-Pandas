@@ -1,0 +1,1508 @@
+Order ID,Order Date,Customer ID,Customer Name,Product ID,Product Name,Category,Quantity,Unit Price,Unit Cost,Discount,Region,Sales Representative
+ORD-1000,2025-12-12,C-010,Divya Sharma,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.05,North,Rep 6
+ORD-1001,"Oct 24, 2025",C-081,Ananya Rao,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.15,East,Rep 7
+ORD-1002,2025-04-21,C-045,Neha Kulkarni,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,South,Rep 1
+ORD-1003,"Jun 24, 2025",C-048,Kavya Das,P-023,External SSD 1TB,,3,119.0,68.0,0.0,West,Rep 8
+ORD-1004,2025-10-27,C-058,Aditya Menon,P-004,4K Monitor 27in,Electronics,10,329.0,210.0,0.05,North,Rep 7
+ORD-1005,2025-02-20,C-106,Manish Gupta,P-023,External SSD 1TB,Accessories,2,119.0,68.0,0.0,South,Rep 5
+ORD-1006,2025-09-23,C-001,Priya Agarwal,P-003,Mechanical Keyboard,Electronics,4,89.0,45.0,0.0,South,Rep 8
+ORD-1007,2025-06-25,C-039,Nikhil Khan,P-012,  Conference Table ,Furniture,5,899.0,520.0,0.1,West,Rep 1
+ORD-1008,2025-12-31,C-107,Vikram Nair,P-017,Sticky Notes,Office Supplies,4,8.99,3.0,0.0,West,Rep 6
+ORD-1009,"Sep 15, 2025",C-076,Neha Mehta,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.15,EAST,Rep 1
+ORD-1010,10/04/2025,C-014,Ishita Bose,P-021,Cable Set,Accessories,1,19.0,6.0,0.15,South,Rep 3
+ORD-1011,"Jan 15, 2025",C-001,Priya Agarwal,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.05,South,Rep 7
+ORD-1012,2025-04-09,C-106,Manish Gupta,P-006,Noise-Cancelling Headphones,ELECTRONICS,3,199.0,110.0,0.15,South,Rep 1
+ORD-1013,2025-09-27,C-104,Priya Iyer,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,South,Rep 1
+ORD-1014,18/07/2025,C-093,Sanjay Gupta,P-014,Gel Pen Pack,Office Supplies,4,12.5,4.0,0.0,South,Rep 7
+ORD-1015,22/03/2025,C-035,Divya Nair,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.2,West,Rep 5
+ORD-1016,2025-01-23,C-073,Sanjay Iyer,P-001,Laptop Pro 14,Electronics,4,899.0,620.0,0.05,North,Rep 4
+ORD-1017,2025-02-07,C-021,Karan Bose,P-005,USB-C Hub,Electronics,10,45.0,18.0,,South,Rep 7
+ORD-1018,2025-09-04,C-067,Aarav Khan,P-011,Desk Lamp,Furniture,5,39.0,15.0,0.0,North,Rep 4
+ORD-1019,2025-09-28,C-076,Neha Mehta,P-014,Gel Pen Pack,Office Supplies,5,12.5,4.0,0.0,North,Rep 5
+ORD-1020,2025-06-11,C-058,Aditya Menon,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.0,North,Rep 1
+ORD-1021,2025-06-20,C-073,Sanjay Iyer,P-008,Ergonomic Chair,Furniture,2,299.0,160.0,0.0,North,Rep 4
+ORD-1022,2025-04-01,C-070,Aarav Bose,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.0,North,Rep 4
+ORD-1023,2025-04-04,C-067,Aarav Khan,P-012,Conference Table,Furniture,2,899.0,520.0,0.05,North,Rep 6
+ORD-1024,10/09/2025,C-040,Divya Chopra,P-006,Noise-Cancelling Headphones,Electronics,2,199.0,110.0,0.0,South,Rep 5
+ORD-1025,2025-05-25,C-060,Neha Pillai,P-016,Stapler Pro,Office Supplies,3,22.0,9.0,0.15,West,Rep 8
+ORD-1026,18/07/2025,C-061,Sanjay Desai,P-007,Standing Desk,Furniture,1,449.0,260.0,0.1,West,Rep 4
+ORD-1027,2025-02-18,C-005,Ritu Joshi,P-012,Conference Table,Furniture,4,899.0,520.0,0.0,West,Rep 3
+ORD-1028,2025-05-16,C-018,Sanjay Sharma,P-018,Desk Organiser,Office Supplies,3,27.0,10.0,0.0,East,Rep 4
+ORD-1029,20/11/2025,C-046,Ananya Sharma,P-020,Phone Case,Accessories,1,24.99,8.0,0.05,West,Rep 1
+ORD-1030,"May 27, 2025",C-115,Sneha Rao,P-002,Wireless Mouse,Electronics,3,29.99,12.0,0.0,South,Rep 7
+ORD-1031,30/09/2025,C-049,Nikhil Das,P-017,Sticky Notes,Office Supplies,2,8.99,3.0,0.0,North,Rep 2
+ORD-1032,2025-07-26,C-016,Karan Rao,P-018,Desk Organiser,Office Supplies,4,27.0,10.0,0.2,South,Rep 8
+ORD-1033,"Nov 14, 2025",C-119,Divya Das,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,South,Rep 4
+ORD-1034,2025-02-02,C-095,Pooja Reddy,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.0,North,Rep 3
+ORD-1035,2025-12-05,C-004,Sanjay Das,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,South,Rep 4
+ORD-1036,2025-08-17,C-058,Aditya Menon,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.1,North,Rep 7
+ORD-1037,09/09/2025,C-080,Aditya Agarwal,P-016,Stapler Pro,Office Supplies,3,22.0,9.0,0.0,North,Rep 3
+ORD-1038,"Jul 31, 2025",C-044,Sneha Kulkarni,P-023,External SSD 1TB,Accessories,2,119.0,68.0,0.1,North,Rep 6
+ORD-1039,2025-07-19,C-111,Sneha Chopra,P-021,Cable Set,Accessories,2,19.0,6.0,0.1,North,Rep 3
+ORD-1040,2025-07-16,C-063,Karan Verma,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.15,North,Rep 6
+ORD-1041,16/03/2025,C-044,Sneha Kulkarni,P-016,Stapler Pro,,1,22.0,9.0,0.0,North,Rep 8
+ORD-1042,2025-06-28,C-039,Nikhil Khan,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.0,West,Rep 2
+ORD-1043,"Sep 03, 2025",C-119,Divya Das,P-017,Sticky Notes,Office Supplies,2,8.99,3.0,0.0,South,Rep 7
+ORD-1044,"Dec 04, 2025",C-089,Varun Mehta,P-007,Standing Desk,Furniture,3,449.0,260.0,0.1,North,Rep 1
+ORD-1045,2025-10-10,C-054,Varun Agarwal,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.05,North,Rep 8
+ORD-1046,27/12/2025,C-037,Priya Patel,P-020,Phone Case,Accessories,3,24.99,8.0,0.0,West,Rep 1
+ORD-1047,"Jan 17, 2025",C-097,Varun Menon,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.2,North,Rep 4
+ORD-1048,25/12/2025,C-053,Rohan Nair,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,East,Rep 5
+ORD-1049,"Dec 10, 2025",C-101,Aditya Agarwal,P-020,Phone Case,Accessories,1,24.99,8.0,0.0,North,Rep 1
+ORD-1050,15/02/2025,C-082,Arjun Menon,P-019,Laptop Stand,Accessories,3,59.0,24.0,0.1,East,Rep 6
+ORD-1051,2025-11-02,C-004,Sanjay Das,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.05,South,Rep 7
+ORD-1052,02/01/2025,C-060,Neha Pillai,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,West,Rep 6
+ORD-1053,18/09/2025,C-029,Arjun Sharma,P-022,Webcam HD,Accessories,4,79.0,34.0,0.0,North,Rep 7
+ORD-1054,2025-05-02,C-070,Aarav Bose,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.15,North,Rep 7
+ORD-1055,2025-02-04,C-044,Sneha Kulkarni,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.1,,Rep 8
+ORD-1056,2025-05-01,C-053,Rohan Nair,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.2,East,Rep 7
+ORD-1057,2025-08-20,C-050,Nikhil Menon,P-017,Sticky Notes,Office Supplies,5,8.99,3.0,0.0,South,Rep 2
+ORD-1058,2025-05-27,C-004,Sanjay Das,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,South,Rep 8
+ORD-1059,2025-05-19,C-054,Varun Agarwal,P-016,Stapler Pro,Office Supplies,8,22.0,9.0,0.1,North,Rep 5
+ORD-1060,2025-04-27,C-109,Neha Rao,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.15,East,Rep 3
+ORD-1061,"Oct 13, 2025",C-070,Aarav Bose,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.0,North,Rep 2
+ORD-1062,"May 11, 2025",C-015,Aditya Chopra,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,North,Rep 3
+ORD-1063,2025-10-28,C-054,Varun Agarwal,P-020,Phone Case,Accessories,2,24.99,8.0,0.2,North,Rep 6
+ORD-1064,07/11/2025,C-110,Ishita Menon,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,East,Rep 3
+ORD-1065,2025-09-11,C-115,Sneha Rao,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.0,South,Rep 1
+ORD-1066,2025-12-20,C-008,Manish Verma,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,West,Rep 8
+ORD-1067,23/07/2025,C-039,Nikhil Khan,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,West,Rep 4
+ORD-1068,2025-01-25,C-084,Varun Singh,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,East,Rep 2
+ORD-1069,2025-01-01,C-009,Kavya Agarwal,P-010,Filing Cabinet,Furniture,4,179.0,95.0,0.0,North,Rep 5
+ORD-1070,2025-07-13,C-043,Sneha Gupta,P-010,Filing Cabinet,Furniture,3,179.0,95.0,0.1,North,Rep 5
+ORD-1071,2025-05-11,C-030,Kavya Das,P-007,Standing Desk,Furniture,2,449.0,260.0,0.05,North,Rep 2
+ORD-1072,2025-05-14,C-114,Nikhil Mehta,P-012,Conference Table,Furniture,2,899.0,520.0,0.05,North,Rep 2
+ORD-1073,"Jan 20, 2025",C-014,Ishita Bose,P-004,4K Monitor 27in,Electronics,5,329.0,210.0,0.0,South,Rep 2
+ORD-1074,13/01/2025,C-009,Kavya Agarwal,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,North,Rep 2
+ORD-1075,2025-11-18,C-001,Priya Agarwal,P-015,Printer Paper A4,Office Supplies,4,24.0,11.0,0.05,South,Rep 2
+ORD-1076,2025-10-24,C-107,Vikram Nair,P-007,Standing Desk,Furniture,5,449.0,260.0,0.0,West,Rep 8
+ORD-1077,2025-12-27,C-045,Neha Kulkarni,P-015,Printer Paper A4,Office Supplies,3,24.0,11.0,0.0,South,Rep 7
+ORD-1078,2025-08-22,C-027,Rohan Kulkarni,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,East,Rep 7
+ORD-1079,"May 20, 2025",C-002,Priya Bose,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.05,North,Rep 6
+ORD-1080,"Oct 12, 2025",C-040,Divya Chopra,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.0,South,Rep 7
+ORD-1081,2025-09-26,C-018,Sanjay Sharma,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.2,East,Rep 1
+ORD-1082,2025-01-07,C-119,Divya Das,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.15,South,Rep 1
+ORD-1083,2025-07-30,C-073,Sanjay Iyer,P-022,Webcam HD,Accessories,1,79.0,34.0,0.0,North,Rep 5
+ORD-1084,"May 01, 2025",C-079,Sneha Mehta,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,East,Rep 2
+ORD-1085,2025-11-25,C-032,Sneha Verma,P-006,Noise-Cancelling Headphones,Electronics,2,199.0,110.0,0.0,North,Rep 4
+ORD-1086,2025-09-20,C-090,Ishita Khan,P-019,Laptop Stand,Accessories,3,59.0,24.0,0.2,North,Rep 2
+ORD-1087,2025-07-22,C-001,Priya Agarwal,P-011,Desk Lamp,Furniture,3,39.0,15.0,0.0,South,Rep 4
+ORD-1088,2025-02-08,C-109,Neha Rao,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.0,East,Rep 3
+ORD-1089,2025-03-17,C-024,Arjun Singh,P-024,Wireless Charger,Accessories,4,35.0,13.0,0.15,North,Rep 2
+ORD-1090,"Jul 06, 2025",C-092,Karan Kulkarni,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,East,Rep 1
+ORD-1091,09/10/2025,C-098,Rohan Patel,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.0,West,Rep 8
+ORD-1092,2025-11-23,C-099,Sanjay Rao,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.05,West,Rep 4
+ORD-1093,26/12/2025,C-047,Divya Agarwal,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.15,North,Rep 4
+ORD-1094,2025-05-10,C-072,Pooja Rao,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.05,East,Rep 5
+ORD-1095,05/07/2025,C-023,Priya Kulkarni,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.0,North,Rep 2
+ORD-1096,2025-03-10,C-082,Arjun Menon,P-002,Wireless Mouse,Electronics,8,29.99,12.0,0.0,East,Rep 2
+ORD-1097,"Oct 17, 2025",C-108,Pooja Das,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.0,North,Rep 2
+ORD-1098,2025-07-25,C-058,Aditya Menon,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,North,Rep 1
+ORD-1099,2025-09-10,C-059,Sneha Khan,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,North,Rep 3
+ORD-1100,"Oct 21, 2025",C-107,Vikram Nair,P-019,Laptop Stand,Accessories,10,59.0,24.0,0.2,West,Rep 3
+ORD-1101,2025-01-30,C-014,Ishita Bose,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.0,South,Rep 1
+ORD-1102,2025-11-16,C-073,Sanjay Iyer,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.0,North,Rep 4
+ORD-1103,"Nov 18, 2025",C-069,Varun Sharma,P-004,4K Monitor 27in,Electronics,3,329.0,210.0,0.0,North,Rep 3
+ORD-1104,11/06/2025,C-096,Varun Singh,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.15,North,Rep 4
+ORD-1105,02/12/2025,C-008,Manish Verma,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.1,West,Rep 2
+ORD-1106,2025-06-14,C-055,Neha Reddy,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.1,North,Rep 5
+ORD-1107,2025-05-17,C-063,Karan Verma,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,North,Rep 2
+ORD-1108,14/12/2025,C-109,Neha Rao,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.0,East,Rep 4
+ORD-1109,2025-07-30,C-054,Varun Agarwal,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,North,Rep 8
+ORD-1110,2025-07-10,C-115,Sneha Rao,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.0,South,Rep 2
+ORD-1111,"Jan 13, 2025",C-010,Divya Sharma,P-007,Standing Desk,Furniture,5,449.0,260.0,0.0,North,Rep 5
+ORD-1112,2025-07-04,C-052,Arjun Kulkarni,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.2,North,Rep 2
+ORD-1113,13/10/2025,C-058,Aditya Menon,P-020,Phone Case,Accessories,1,24.99,8.0,0.15,North,Rep 3
+ORD-1114,21/01/2025,C-044,Sneha Kulkarni,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.1,North,Rep 6
+ORD-1115,30/03/2025,C-114,Nikhil Mehta,P-020,Phone Case,Accessories,1,24.99,8.0,0.05,North,Rep 1
+ORD-1116,2025-12-30,C-035,Divya Nair,P-022,Webcam HD,Accessories,2,79.0,34.0,0.0,West,Rep 4
+ORD-1117,2025-09-03,C-051,Meera Rao,P-004,4K Monitor 27in,Electronics,5,329.0,210.0,0.0,West,Rep 6
+ORD-1118,2025-07-03,C-078,Manish Singh,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.2,West,Rep 5
+ORD-1119,"Mar 16, 2025",C-082,Arjun Menon,P-009,Bookshelf,Furniture,4,129.0,65.0,0.0,East,Rep 4
+ORD-1120,"Dec 01, 2025",C-093,Sanjay Gupta,P-007,Standing Desk,Furniture,2,449.0,260.0,0.05,South,Rep 2
+ORD-1121,"Dec 17, 2025",C-045,Neha Kulkarni,P-008,Ergonomic Chair,Furniture,3,299.0,160.0,0.0,South,Rep 5
+ORD-1122,"Oct 05, 2025",C-060,Neha Pillai,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.05,West,Rep 4
+ORD-1123,2025-06-12,C-054,Varun Agarwal,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,North,Rep 6
+ORD-1124,2025-09-12,C-079,Sneha Mehta,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,East,Rep 2
+ORD-1125,"Nov 21, 2025",C-031,Varun Khan,P-019,Laptop Stand,Accessories,2,59.0,24.0,0.0,East,Rep 3
+ORD-1126,01/03/2025,C-035,Divya Nair,P-007,Standing Desk,Furniture,5,449.0,260.0,0.0,West,Rep 8
+ORD-1127,2025-09-29,C-115,Sneha Rao,P-014,Gel Pen Pack,Office Supplies,2,12.5,4.0,0.0,South,Rep 6
+ORD-1128,2025-05-10,C-118,Sneha Khan,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.0,South,Rep 5
+ORD-1129,"Nov 26, 2025",C-073,Sanjay Iyer,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.15,North,Rep 7
+ORD-1130,2025-05-11,C-064,Meera Nair,P-017,Sticky Notes,Office Supplies,2,8.99,3.0,0.0,West,Rep 7
+ORD-1131,2025-12-07,C-114,Nikhil Mehta,P-006,Noise-Cancelling Headphones,Electronics,4,199.0,110.0,0.2,North,Rep 6
+ORD-1132,2025-10-21,C-096,Varun Singh,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.0,North,Rep 5
+ORD-1133,2025-04-29,C-032,Sneha Verma,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.0,North,Rep 2
+ORD-1134,2025-11-07,C-107,Vikram Nair,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,West,Rep 4
+ORD-1135,2025-11-14,C-014,Ishita Bose,P-020,Phone Case,Accessories,3,24.99,8.0,0.0,South,Rep 4
+ORD-1136,2025-12-31,C-022,Priya Agarwal,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.05,East,Rep 8
+ORD-1137,2025-12-26,C-004,Sanjay Das,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.1,South,Rep 3
+ORD-1138,2025-11-29,C-079,Sneha Mehta,P-011,Desk Lamp,Furniture,4,39.0,15.0,0.0,East,Rep 2
+ORD-1139,2025-08-05,C-059,Sneha Khan,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.05,North,Rep 8
+ORD-1140,2025-12-31,C-061,Sanjay Desai,P-003,Mechanical Keyboard,Electronics,3,89.0,45.0,0.2,West,Rep 3
+ORD-1141,03/07/2025,C-054,Varun Agarwal,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.05,North,Rep 3
+ORD-1142,"Oct 29, 2025",C-103,Ritu Verma,P-022,Webcam HD,Accessories,1,79.0,34.0,0.0,East,Rep 2
+ORD-1143,2025-11-03,C-058,Aditya Menon,P-018,Desk Organiser,Office Supplies,4,27.0,10.0,0.0,North,Rep 8
+ORD-1144,2025-02-09,C-015,Aditya Chopra,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,North,Rep 2
+ORD-1145,23/06/2025,C-097,Varun Menon,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.05,North,Rep 7
+ORD-1146,"Mar 12, 2025",C-015,Aditya Chopra,P-002,Wireless Mouse,Electronics,4,29.99,12.0,0.0,North,Rep 4
+ORD-1147,2025-02-08,C-051,Meera Rao,P-020,Phone Case,Accessories,3,24.99,8.0,0.0,West,Rep 7
+ORD-1148,2025-07-18,C-094,Ritu Desai,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,North,Rep 6
+ORD-1149,2025-10-16,C-010,Divya Sharma,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.0,North,Rep 2
+ORD-1150,"Nov 09, 2025",C-052,Arjun Kulkarni,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.05,North,Rep 2
+ORD-1151,2025-06-07,C-107,Vikram Nair,P-011,Desk Lamp,Furniture,8,39.0,15.0,0.15,West,Rep 2
+ORD-1152,2025-04-02,C-078,Manish Singh,P-023,External SSD 1TB,Accessories,3,119.0,68.0,0.0,West,Rep 6
+ORD-1153,"Nov 11, 2025",C-085,Ananya Das,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,North,Rep 5
+ORD-1154,2025-07-12,C-033,Aditya Verma,P-007,Standing Desk,Furniture,3,449.0,260.0,0.1,North,Rep 3
+ORD-1155,2025-06-04,C-035,Divya Nair,P-014,Gel Pen Pack,Office Supplies,2,12.5,4.0,0.0,West,Rep 5
+ORD-1156,2025-09-19,C-004,Sanjay Das,P-009,Bookshelf,Furniture,1,129.0,65.0,0.15,South,Rep 7
+ORD-1157,"Mar 14, 2025",C-109,Neha Rao,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.0,East,Rep 8
+ORD-1158,2025-01-25,C-027,Rohan Kulkarni,P-012,Conference Table,Furniture,1,899.0,520.0,0.05,East,Rep 1
+ORD-1159,2025-02-11,C-025,Neha Desai,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.0,North,Rep 2
+ORD-1160,2025-11-21,C-040,Divya Chopra,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,South,Rep 3
+ORD-1161,26/08/2025,C-024,Arjun Singh,P-007,Standing Desk,Furniture,4,449.0,260.0,0.15,North,Rep 1
+ORD-1162,15/02/2025,C-009,Kavya Agarwal,P-012,Conference Table,Furniture,1,899.0,520.0,0.1,North,Rep 8
+ORD-1163,2025-11-08,C-062,Divya Gupta,P-019,Laptop Stand,Accessories,10,59.0,24.0,0.0,East,Rep 4
+ORD-1164,2025-05-12,C-115,Sneha Rao,P-003,Mechanical Keyboard,Electronics,3,89.0,45.0,0.0,South,Rep 7
+ORD-1165,"Jul 16, 2025",C-058,Aditya Menon,P-024,Wireless Charger,Accessories,8,35.0,13.0,0.0,North,Rep 4
+ORD-1166,2025-08-17,C-012,Varun Verma,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,South,Rep 7
+ORD-1167,"Aug 18, 2025",C-044,Sneha Kulkarni,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,North,Rep 6
+ORD-1168,2025-12-11,C-114,Nikhil Mehta,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,North,Rep 8
+ORD-1169,"Jul 03, 2025",C-078,Manish Singh,P-014,Gel Pen Pack,Office Supplies,2,12.5,4.0,0.0,West,Rep 3
+ORD-1170,2025-06-01,C-007,Pooja Rao,P-008,Ergonomic Chair,Furniture,3,299.0,160.0,0.0,East,Rep 7
+ORD-1171,"Aug 09, 2025",C-095,Pooja Reddy,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.1,North,Rep 8
+ORD-1172,2025-08-21,C-080,Aditya Agarwal,P-024,Wireless Charger,Accessories,5,35.0,13.0,0.0,North,Rep 1
+ORD-1173,"Aug 15, 2025",C-001,Priya Agarwal,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.05,South,Rep 5
+ORD-1174,"Jan 11, 2025",C-093,Sanjay Gupta,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.0,South,Rep 4
+ORD-1175,"Oct 29, 2025",C-043,Sneha Gupta,P-001,Laptop Pro 14,Electronics,4,899.0,620.0,0.0,North,Rep 5
+ORD-1176,21/04/2025,C-015,Aditya Chopra,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,North,Rep 2
+ORD-1177,"Dec 21, 2025",C-107,Vikram Nair,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,West,Rep 8
+ORD-1178,"May 31, 2025",C-008,Manish Verma,P-010,Filing Cabinet,Furniture,2,179.0,95.0,0.0,West,Rep 6
+ORD-1179,2025-08-25,C-054,Varun Agarwal,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,North,Rep 1
+ORD-1180,2025-11-01,C-104,Priya Iyer,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.15,South,Rep 1
+ORD-1181,24/07/2025,C-056,Nikhil Verma,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.0,West,Rep 6
+ORD-1182,2025-05-31,C-073,Sanjay Iyer,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.0,North,Rep 8
+ORD-1183,2025-03-01,C-021,Karan Bose,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.0,South,Rep 8
+ORD-1184,"Jun 11, 2025",C-099,Sanjay Rao,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.05,West,Rep 8
+ORD-1185,2025-09-04,C-054,Varun Agarwal,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,North,Rep 5
+ORD-1186,2025-12-30,C-115,Sneha Rao,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.0,South,Rep 5
+ORD-1187,2025-01-19,C-114,Nikhil Mehta,P-022,Webcam HD,Accessories,4,79.0,34.0,0.0,North,Rep 1
+ORD-1188,2025-11-13,C-015,Aditya Chopra,P-018,Desk Organiser,Office Supplies,5,27.0,10.0,0.0,North,Rep 6
+ORD-1189,26/06/2025,C-004,Sanjay Das,P-010,Filing Cabinet,Furniture,8,179.0,95.0,0.0,South,Rep 2
+ORD-1190,2025-04-27,C-116,Neha Agarwal,P-005,USB-C Hub,Electronics,4,45.0,18.0,0.05,West,Rep 5
+ORD-1191,"Dec 25, 2025",C-105,Aditya Reddy,P-020,Phone Case,Accessories,5,24.99,8.0,0.0,South,Rep 7
+ORD-1192,"Aug 03, 2025",C-063,Karan Verma,P-024,Wireless Charger,Accessories,8,35.0,13.0,0.05,North,Rep 7
+ORD-1193,2025-07-01,C-048,Kavya Das,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,West,Rep 1
+ORD-1194,2025-02-01,C-097,Varun Menon,P-018,Desk Organiser,Office Supplies,5,27.0,10.0,0.05,North,Rep 1
+ORD-1195,2025-03-08,C-025,Neha Desai,P-001,Laptop Pro 14,Electronics,8,899.0,620.0,0.0,North,Rep 5
+ORD-1196,2025-12-13,C-118,Sneha Khan,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.0,South,Rep 8
+ORD-1197,23/03/2025,C-067,Aarav Khan,P-002,Wireless Mouse,Electronics,5,29.99,12.0,0.0,North,Rep 6
+ORD-1198,26/03/2025,C-099,Sanjay Rao,P-021,Cable Set,Accessories,4,19.0,6.0,0.15,West,Rep 2
+ORD-1199,"Feb 07, 2025",C-029,Arjun Sharma,P-009,Bookshelf,Furniture,1,129.0,65.0,0.15,North,Rep 4
+ORD-1200,2025-10-23,C-063,Karan Verma,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.05,North,Rep 2
+ORD-1201,23/06/2025,C-029,Arjun Sharma,P-017,Sticky Notes,Office Supplies,3,8.99,3.0,0.0,North,Rep 8
+ORD-1202,2025-03-20,C-008,Manish Verma,P-015,Printer Paper A4,Office Supplies,2,24.0,11.0,0.0,West,Rep 8
+ORD-1203,"Dec 30, 2025",C-058,Aditya Menon,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,North,Rep 1
+ORD-1204,20/08/2025,C-029,Arjun Sharma,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.2,North,Rep 1
+ORD-1205,02/12/2025,C-058,Aditya Menon,P-012,Conference Table,Furniture,1,899.0,520.0,0.1,North,Rep 6
+ORD-1206,27/10/2025,C-054,Varun Agarwal,P-011,Desk Lamp,Furniture,4,39.0,15.0,0.05,North,Rep 3
+ORD-1207,2025-09-14,C-081,Ananya Rao,P-009,Bookshelf,Furniture,8,129.0,65.0,0.0,East,Rep 4
+ORD-1208,06/11/2025,C-060,Neha Pillai,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,West,Rep 5
+ORD-1209,2025-02-25,C-023,Priya Kulkarni,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.05,North,Rep 8
+ORD-1210,"Apr 22, 2025",C-009,Kavya Agarwal,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.0,North,Rep 4
+ORD-1211,"Jul 28, 2025",C-108,Pooja Das,P-007,Standing Desk,Furniture,3,449.0,260.0,0.05,North,Rep 2
+ORD-1212,2025-05-24,C-058,Aditya Menon,P-020,Phone Case,Accessories,1,24.99,8.0,0.0,North,Rep 4
+ORD-1213,2025-08-04,C-084,Varun Singh,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.0,East,Rep 7
+ORD-1214,2025-10-15,C-100,Arjun Rao,P-005,USB-C Hub,Electronics,4,45.0,18.0,0.0,East,Rep 3
+ORD-1215,"Mar 16, 2025",C-057,Neha Gupta,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,West,Rep 7
+ORD-1216,2025-05-08,C-035,Divya Nair,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,West,Rep 7
+ORD-1217,08/04/2025,C-096,Varun Singh,P-009,Bookshelf,Furniture,5,129.0,65.0,0.0,North,Rep 6
+ORD-1218,23/11/2025,C-120,Varun Agarwal,P-012,Conference Table,Furniture,4,899.0,520.0,0.15,South,Rep 5
+ORD-1219,2025-07-02,C-007,Pooja Rao,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,East,Rep 4
+ORD-1220,2025-06-12,C-067,Aarav Khan,P-019,Laptop Stand,Accessories,4,59.0,24.0,0.0,North,Rep 6
+ORD-1221,2025-10-31,C-106,Manish Gupta,P-006,Noise-Cancelling Headphones,Electronics,10,199.0,110.0,0.15,South,Rep 8
+ORD-1222,2025-05-08,C-052,Arjun Kulkarni,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.15,North,Rep 4
+ORD-1223,07/08/2025,C-038,Manish Reddy,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,North,Rep 1
+ORD-1224,"Dec 17, 2025",C-053,Rohan Nair,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,East,Rep 6
+ORD-1225,2025-11-06,C-034,Arjun Pillai,P-005,USB-C Hub,Electronics,5,45.0,18.0,0.0,West,Rep 6
+ORD-1226,2025-11-07,C-029,Arjun Sharma,P-024,Wireless Charger,Accessories,8,35.0,13.0,0.0,North,Rep 1
+ORD-1227,2025-06-22,C-032,Sneha Verma,P-011,Desk Lamp,Furniture,3,39.0,15.0,0.1,North,Rep 4
+ORD-1228,2025-11-13,C-026,Pooja Nair,P-017,Sticky Notes,Office Supplies,2,8.99,3.0,0.2,North,Rep 8
+ORD-1229,2025-03-28,C-061,Sanjay Desai,P-001,Laptop Pro 14,Electronics,3,899.0,620.0,0.0,West,Rep 4
+ORD-1230,2025-10-15,C-046,Ananya Sharma,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.0,West,Rep 4
+ORD-1231,2025-11-21,C-074,Priya Verma,P-012,Conference Table,Furniture,2,899.0,520.0,0.2,North,Rep 4
+ORD-1232,2025-06-11,C-114,Nikhil Mehta,P-002,Wireless Mouse,Electronics,3,29.99,12.0,0.1,North,Rep 8
+ORD-1233,2025-07-05,C-024,Arjun Singh,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.0,North,Rep 3
+ORD-1234,"Nov 01, 2025",C-111,Sneha Chopra,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,North,Rep 1
+ORD-1235,2025-02-27,C-114,Nikhil Mehta,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,North,Rep 7
+ORD-1236,2025-06-09,C-002,Priya Bose,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.1,North,Rep 2
+ORD-1237,2025-12-08,C-106,Manish Gupta,P-006,Noise-Cancelling Headphones,Electronics,4,199.0,110.0,0.0,South,Rep 1
+ORD-1238,23/11/2025,C-039,Nikhil Khan,P-003,Mechanical Keyboard,Electronics,3,89.0,45.0,0.0,West,Rep 1
+ORD-1239,2025-12-14,C-091,Manish Patel,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.15,North,Rep 5
+ORD-1240,14/10/2025,C-101,Aditya Agarwal,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.0,North,Rep 8
+ORD-1241,"Jul 18, 2025",C-060,Neha Pillai,P-006,Noise-Cancelling Headphones,Electronics,2,199.0,110.0,0.0,West,Rep 7
+ORD-1242,07/12/2025,C-031,Varun Khan,P-019,Laptop Stand,Accessories,2,59.0,24.0,0.0,East,Rep 7
+ORD-1243,2025-11-01,C-115,Sneha Rao,P-005,USB-C Hub,Electronics,3,45.0,18.0,0.15,South,Rep 8
+ORD-1244,2025-05-22,C-074,Priya Verma,P-016,Stapler Pro,Office Supplies,10,22.0,9.0,0.0,North,Rep 5
+ORD-1245,26/11/2025,C-036,Ananya Chopra,P-010,Filing Cabinet,Furniture,3,179.0,95.0,0.0,South,Rep 8
+ORD-1246,28/11/2025,C-039,Nikhil Khan,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.05,West,Rep 3
+ORD-1247,2025-11-11,C-002,Priya Bose,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.05,North,Rep 5
+ORD-1248,2025-07-15,C-004,Sanjay Das,P-011,Desk Lamp,Furniture,4,39.0,15.0,0.0,South,Rep 7
+ORD-1249,2025-12-16,C-004,Sanjay Das,P-010,Filing Cabinet,Furniture,3,179.0,95.0,0.0,South,Rep 7
+ORD-1250,2025-10-14,C-108,Pooja Das,P-008,Ergonomic Chair,Furniture,2,299.0,160.0,0.1,North,Rep 7
+ORD-1251,2025-04-06,C-002,Priya Bose,P-006,Noise-Cancelling Headphones,Electronics,8,199.0,110.0,0.05,North,Rep 6
+ORD-1252,2025-10-14,C-063,Karan Verma,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.05,North,Rep 3
+ORD-1253,2025-11-30,C-100,Arjun Rao,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,East,Rep 2
+ORD-1254,"Dec 24, 2025",C-110,Ishita Menon,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,East,Rep 3
+ORD-1255,2025-02-07,C-010,Divya Sharma,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.2,North,Rep 1
+ORD-1256,2025-02-26,C-102,Arjun Menon,P-018,Desk Organiser,Office Supplies,3,27.0,10.0,0.05,West,Rep 4
+ORD-1257,05/09/2025,C-061,Sanjay Desai,P-022,Webcam HD,Accessories,2,79.0,34.0,0.0,West,Rep 3
+ORD-1258,05/07/2025,C-018,Sanjay Sharma,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,East,Rep 7
+ORD-1259,"Nov 15, 2025",C-042,Ritu Singh,P-006,Noise-Cancelling Headphones,Electronics,2,199.0,110.0,0.1,North,Rep 1
+ORD-1260,2025-10-21,C-039,Nikhil Khan,P-019,Laptop Stand,Accessories,2,59.0,24.0,0.15,West,Rep 1
+ORD-1261,2025-08-11,C-037,Priya Patel,P-008,Ergonomic Chair,Furniture,2,299.0,160.0,0.05,West,Rep 5
+ORD-1262,31/08/2025,C-014,Ishita Bose,P-008,Ergonomic Chair,Furniture,2,299.0,160.0,0.05,South,Rep 5
+ORD-1263,2025-06-27,C-053,Rohan Nair,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,East,Rep 4
+ORD-1264,"Oct 13, 2025",C-029,Arjun Sharma,P-021,Cable Set,Accessories,2,19.0,6.0,0.1,North,Rep 8
+ORD-1265,"Jul 16, 2025",C-073,Sanjay Iyer,P-012,Conference Table,Furniture,5,899.0,520.0,0.0,North,Rep 5
+ORD-1266,2025-08-23,C-093,Sanjay Gupta,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.0,South,Rep 5
+ORD-1267,2025-07-14,C-058,Aditya Menon,P-023,External SSD 1TB,Accessories,8,119.0,68.0,0.0,North,Rep 2
+ORD-1268,2025-04-01,C-007,Pooja Rao,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.1,East,Rep 5
+ORD-1269,"Jan 13, 2025",C-067,Aarav Khan,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.15,North,Rep 2
+ORD-1270,01/09/2025,C-042,Ritu Singh,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.1,North,Rep 2
+ORD-1271,2025-12-05,C-059,Sneha Khan,P-006,Noise-Cancelling Headphones,Electronics,3,199.0,110.0,0.1,North,Rep 8
+ORD-1272,2025-04-04,C-037,Priya Patel,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,West,Rep 7
+ORD-1273,2025-12-29,C-062,Divya Gupta,P-024,Wireless Charger,Accessories,2,35.0,13.0,0.1,East,Rep 8
+ORD-1274,"Mar 27, 2025",C-062,Divya Gupta,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,East,Rep 2
+ORD-1275,2025-12-27,C-111,Sneha Chopra,P-024,Wireless Charger,Accessories,3,35.0,13.0,0.0,North,Rep 3
+ORD-1276,2025-08-03,C-066,Manish Khan,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.0,South,Rep 6
+ORD-1277,2025-05-15,C-043,Sneha Gupta,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,North,Rep 7
+ORD-1278,27/06/2025,C-029,Arjun Sharma,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.0,North,Rep 8
+ORD-1279,2025-03-16,C-078,Manish Singh,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,West,Rep 1
+ORD-1280,"Aug 16, 2025",C-002,Priya Bose,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.05,North,Rep 2
+ORD-1281,2025-06-26,C-005,Ritu Joshi,P-011,Desk Lamp,Furniture,3,39.0,15.0,0.15,West,Rep 1
+ORD-1282,2025-03-17,C-110,Ishita Menon,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,East,Rep 7
+ORD-1283,2025-10-07,C-072,Pooja Rao,P-016,Stapler Pro,Office Supplies,8,22.0,9.0,0.0,East,Rep 3
+ORD-1284,2025-07-08,C-044,Sneha Kulkarni,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,North,Rep 4
+ORD-1285,08/01/2025,C-054,Varun Agarwal,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.05,North,Rep 7
+ORD-1286,2025-11-05,C-085,Ananya Das,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.05,North,Rep 6
+ORD-1287,2025-01-18,C-028,Karan Singh,P-006,Noise-Cancelling Headphones,Electronics,2,199.0,110.0,0.0,East,Rep 2
+ORD-1288,2025-11-10,C-114,Nikhil Mehta,P-011,Desk Lamp,Furniture,5,39.0,15.0,0.0,North,Rep 3
+ORD-1289,2025-12-18,C-001,Priya Agarwal,P-023,External SSD 1TB,Accessories,3,119.0,68.0,0.2,South,Rep 8
+ORD-1290,2025-12-23,C-066,Manish Khan,P-019,Laptop Stand,Accessories,4,59.0,24.0,0.05,South,Rep 8
+ORD-1291,16/06/2025,C-067,Aarav Khan,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.05,North,Rep 1
+ORD-1292,2025-10-09,C-106,Manish Gupta,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.0,South,Rep 8
+ORD-1293,10/10/2025,C-046,Ananya Sharma,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,West,Rep 4
+ORD-1294,2025-12-15,C-092,Karan Kulkarni,P-003,Mechanical Keyboard,Electronics,4,89.0,45.0,0.0,East,Rep 2
+ORD-1295,2025-04-10,C-073,Sanjay Iyer,P-021,Cable Set,Accessories,5,19.0,6.0,0.0,North,Rep 6
+ORD-1296,2025-12-28,C-015,Aditya Chopra,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,North,Rep 3
+ORD-1297,2025-07-08,C-095,Pooja Reddy,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,North,Rep 7
+ORD-1298,2025-07-24,C-105,Aditya Reddy,P-001,Laptop Pro 14,Electronics,8,899.0,620.0,0.05,South,Rep 2
+ORD-1299,2025-11-29,C-058,Aditya Menon,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.0,North,Rep 6
+ORD-1300,2025-01-20,C-037,Priya Patel,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,West,Rep 5
+ORD-1301,2025-04-25,C-002,Priya Bose,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.0,North,Rep 6
+ORD-1302,2025-02-15,C-001,Priya Agarwal,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,South,Rep 7
+ORD-1303,01/06/2025,C-063,Karan Verma,P-020,Phone Case,Accessories,2,24.99,8.0,0.0,North,Rep 5
+ORD-1304,2025-05-20,C-054,Varun Agarwal,P-018,Desk Organiser,Office Supplies,3,27.0,10.0,0.15,North,Rep 3
+ORD-1305,2025-08-23,C-096,Varun Singh,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.1,North,Rep 6
+ORD-1306,2025-12-11,C-119,Divya Das,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,South,Rep 5
+ORD-1307,2025-05-16,C-119,Divya Das,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.0,South,Rep 7
+ORD-1308,"May 12, 2025",C-058,Aditya Menon,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.0,North,Rep 2
+ORD-1309,2025-12-16,C-034,Arjun Pillai,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,West,Rep 4
+ORD-1310,"Dec 12, 2025",C-060,Neha Pillai,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,West,Rep 6
+ORD-1311,2025-06-28,C-035,Divya Nair,P-021,Cable Set,Accessories,4,19.0,6.0,0.0,West,Rep 5
+ORD-1312,2025-12-25,C-021,Karan Bose,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,South,Rep 5
+ORD-1313,2025-09-21,C-020,Nikhil Kulkarni,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.0,North,Rep 3
+ORD-1314,2025-05-21,C-087,Pooja Patel,P-012,Conference Table,Furniture,1,899.0,520.0,0.1,South,Rep 1
+ORD-1315,2025-03-31,C-109,Neha Rao,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,East,Rep 4
+ORD-1316,22/02/2025,C-029,Arjun Sharma,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.1,North,Rep 8
+ORD-1317,2025-08-24,C-085,Ananya Das,P-023,External SSD 1TB,Accessories,2,119.0,68.0,0.2,North,Rep 3
+ORD-1318,2025-03-10,C-061,Sanjay Desai,P-020,Phone Case,Accessories,1,24.99,8.0,0.05,West,Rep 3
+ORD-1319,11/12/2025,C-034,Arjun Pillai,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.0,West,Rep 2
+ORD-1320,2025-04-23,C-002,Priya Bose,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,North,Rep 4
+ORD-1321,2025-05-17,C-042,Ritu Singh,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.0,North,Rep 2
+ORD-1322,"Oct 18, 2025",C-119,Divya Das,P-009,Bookshelf,Furniture,2,129.0,65.0,0.0,South,Rep 8
+ORD-1323,2025-10-24,C-096,Varun Singh,P-008,Ergonomic Chair,Furniture,4,299.0,160.0,0.15,North,Rep 4
+ORD-1324,2025-10-22,C-099,Sanjay Rao,P-019,Laptop Stand,Accessories,5,59.0,24.0,0.0,West,Rep 8
+ORD-1325,23/10/2025,C-007,Pooja Rao,P-024,Wireless Charger,Accessories,2,35.0,13.0,0.0,East,Rep 7
+ORD-1326,"Nov 02, 2025",C-072,Pooja Rao,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,East,Rep 8
+ORD-1327,"Jan 18, 2025",C-055,Neha Reddy,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.0,North,Rep 4
+ORD-1328,"Nov 27, 2025",C-035,Divya Nair,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,West,Rep 6
+ORD-1329,16/06/2025,C-032,Sneha Verma,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.0,North,Rep 3
+ORD-1330,"Aug 10, 2025",C-053,Rohan Nair,P-012,Conference Table,Furniture,1,899.0,520.0,0.2,East,Rep 1
+ORD-1331,2025-12-22,C-104,Priya Iyer,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,South,Rep 2
+ORD-1332,2025-11-08,C-069,Varun Sharma,P-008,Ergonomic Chair,Furniture,5,299.0,160.0,0.0,North,Rep 3
+ORD-1333,2025-10-06,C-004,Sanjay Das,P-014,Gel Pen Pack,Office Supplies,2,12.5,4.0,0.1,South,Rep 1
+ORD-1334,21/07/2025,C-032,Sneha Verma,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.15,North,Rep 3
+ORD-1335,2025-03-20,C-041,Rohan Kulkarni,P-022,Webcam HD,Accessories,2,79.0,34.0,0.05,East,Rep 4
+ORD-1336,"Mar 08, 2025",C-008,Manish Verma,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.15,West,Rep 3
+ORD-1337,09/12/2025,C-007,Pooja Rao,P-012,Conference Table,Furniture,1,899.0,520.0,0.15,East,Rep 8
+ORD-1338,2025-05-08,C-044,Sneha Kulkarni,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,North,Rep 5
+ORD-1339,2025-04-15,C-084,Varun Singh,P-022,Webcam HD,Accessories,1,79.0,34.0,0.0,East,Rep 6
+ORD-1340,2025-05-17,C-078,Manish Singh,P-011,Desk Lamp,Furniture,5,39.0,15.0,0.05,West,Rep 4
+ORD-1341,2025-02-28,C-040,Divya Chopra,P-022,Webcam HD,Accessories,1,79.0,34.0,0.0,South,Rep 3
+ORD-1342,2025-01-25,C-046,Ananya Sharma,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,West,Rep 6
+ORD-1343,"Sep 01, 2025",C-049,Nikhil Das,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,North,Rep 7
+ORD-1344,"Jun 01, 2025",C-070,Aarav Bose,P-007,Standing Desk,Furniture,2,449.0,260.0,0.15,North,Rep 8
+ORD-1345,"Jan 24, 2025",C-054,Varun Agarwal,P-020,Phone Case,Accessories,2,24.99,8.0,0.2,North,Rep 4
+ORD-1346,2025-02-08,C-066,Manish Khan,P-001,Laptop Pro 14,Electronics,3,899.0,620.0,0.0,South,Rep 1
+ORD-1347,2025-11-24,C-073,Sanjay Iyer,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.1,North,Rep 7
+ORD-1348,2025-11-24,C-002,Priya Bose,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.1,North,Rep 7
+ORD-1349,2025-06-17,C-021,Karan Bose,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.05,South,Rep 2
+ORD-1350,08/02/2025,C-109,Neha Rao,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,East,Rep 2
+ORD-1351,01/10/2025,C-073,Sanjay Iyer,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,North,Rep 1
+ORD-1352,2025-10-08,C-003,Manish Agarwal,P-022,Webcam HD,Accessories,3,79.0,34.0,0.15,East,Rep 3
+ORD-1353,06/07/2025,C-058,Aditya Menon,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,North,Rep 5
+ORD-1354,"Jun 21, 2025",C-072,Pooja Rao,P-016,Stapler Pro,Office Supplies,10,22.0,9.0,0.0,East,Rep 4
+ORD-1355,2025-03-18,C-044,Sneha Kulkarni,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.0,North,Rep 7
+ORD-1356,2025-07-15,C-113,Aditya Patel,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,East,Rep 6
+ORD-1357,2025-04-18,C-119,Divya Das,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,South,Rep 5
+ORD-1358,2025-07-16,C-068,Arjun Pillai,P-004,4K Monitor 27in,Electronics,4,329.0,210.0,0.0,South,Rep 6
+ORD-1359,24/09/2025,C-107,Vikram Nair,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,West,Rep 1
+ORD-1360,13/03/2025,C-004,Sanjay Das,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.05,South,Rep 1
+ORD-1361,"Nov 22, 2025",C-104,Priya Iyer,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,South,Rep 1
+ORD-1362,2025-11-19,C-029,Arjun Sharma,P-012,Conference Table,Furniture,1,899.0,520.0,0.1,North,Rep 8
+ORD-1363,"Jul 17, 2025",C-119,Divya Das,P-012,Conference Table,Furniture,1,899.0,520.0,0.1,South,Rep 1
+ORD-1364,09/07/2025,C-108,Pooja Das,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.0,North,Rep 7
+ORD-1365,28/05/2025,C-061,Sanjay Desai,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,West,Rep 3
+ORD-1366,2025-04-14,C-045,Neha Kulkarni,P-001,Laptop Pro 14,Electronics,4,899.0,620.0,0.05,South,Rep 5
+ORD-1367,2025-09-26,C-106,Manish Gupta,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.0,South,Rep 1
+ORD-1368,"Jan 20, 2025",C-096,Varun Singh,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.05,North,Rep 1
+ORD-1369,2025-08-19,C-095,Pooja Reddy,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,North,Rep 5
+ORD-1370,2025-12-29,C-032,Sneha Verma,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.0,North,Rep 5
+ORD-1371,2025-10-31,C-095,Pooja Reddy,P-015,Printer Paper A4,Office Supplies,4,24.0,11.0,0.1,North,Rep 2
+ORD-1372,2025-08-06,C-038,Manish Reddy,P-021,Cable Set,Accessories,5,19.0,6.0,0.05,North,Rep 8
+ORD-1373,2025-06-16,C-063,Karan Verma,P-024,Wireless Charger,Accessories,2,35.0,13.0,0.0,North,Rep 2
+ORD-1374,"Jul 27, 2025",C-004,Sanjay Das,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,South,Rep 7
+ORD-1375,2025-02-10,C-109,Neha Rao,P-019,Laptop Stand,Accessories,3,59.0,24.0,0.0,East,Rep 6
+ORD-1376,"Sep 03, 2025",C-095,Pooja Reddy,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,North,Rep 4
+ORD-1377,2025-09-27,C-115,Sneha Rao,P-008,Ergonomic Chair,Furniture,2,299.0,160.0,0.05,South,Rep 4
+ORD-1378,2025-10-18,C-120,Varun Agarwal,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,South,Rep 3
+ORD-1379,12/08/2025,C-004,Sanjay Das,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,South,Rep 5
+ORD-1380,12/09/2025,C-088,Sneha Rao,P-005,USB-C Hub,Electronics,3,45.0,18.0,0.05,North,Rep 8
+ORD-1381,"Aug 24, 2025",C-008,Manish Verma,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,West,Rep 7
+ORD-1382,2025-09-20,C-007,Pooja Rao,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.05,East,Rep 8
+ORD-1383,"Aug 20, 2025",C-070,Aarav Bose,P-020,Phone Case,Accessories,1,24.99,8.0,0.0,North,Rep 7
+ORD-1384,2025-10-07,C-061,Sanjay Desai,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,West,Rep 4
+ORD-1385,"May 30, 2025",C-114,Nikhil Mehta,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.0,North,Rep 1
+ORD-1386,2025-05-17,C-100,Arjun Rao,P-021,Cable Set,Accessories,3,19.0,6.0,0.1,East,Rep 5
+ORD-1387,"Aug 25, 2025",C-115,Sneha Rao,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.0,South,Rep 8
+ORD-1388,2025-11-28,C-061,Sanjay Desai,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.1,West,Rep 6
+ORD-1389,14/01/2025,C-082,Arjun Menon,P-012,Conference Table,Furniture,8,899.0,520.0,0.1,East,Rep 3
+ORD-1390,"Jan 22, 2025",C-114,Nikhil Mehta,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.05,North,Rep 8
+ORD-1391,2025-06-17,C-010,Divya Sharma,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,North,Rep 7
+ORD-1392,2025-03-04,C-029,Arjun Sharma,P-022,Webcam HD,Accessories,1,79.0,34.0,0.0,North,Rep 4
+ORD-1393,"May 28, 2025",C-073,Sanjay Iyer,P-014,Gel Pen Pack,Office Supplies,5,12.5,4.0,0.0,North,Rep 8
+ORD-1394,04/12/2025,C-102,Arjun Menon,P-007,Standing Desk,Furniture,2,449.0,260.0,0.05,West,Rep 5
+ORD-1395,2025-01-07,C-115,Sneha Rao,P-017,Sticky Notes,Office Supplies,2,8.99,3.0,0.1,South,Rep 4
+ORD-1396,2025-01-06,C-060,Neha Pillai,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,West,Rep 7
+ORD-1397,27/07/2025,C-047,Divya Agarwal,P-006,Noise-Cancelling Headphones,Electronics,8,199.0,110.0,0.0,North,Rep 3
+ORD-1398,2025-04-30,C-063,Karan Verma,P-006,Noise-Cancelling Headphones,Electronics,2,199.0,110.0,0.2,North,Rep 3
+ORD-1399,"Sep 25, 2025",C-002,Priya Bose,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,North,Rep 1
+ORD-1400,28/08/2025,C-082,Arjun Menon,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.05,East,Rep 3
+ORD-1401,2025-01-17,C-008,Manish Verma,P-010,Filing Cabinet,Furniture,2,179.0,95.0,0.2,West,Rep 1
+ORD-1402,"Aug 07, 2025",C-094,Ritu Desai,P-012,Conference Table,Furniture,2,899.0,520.0,0.05,North,Rep 3
+ORD-1403,2025-11-21,C-010,Divya Sharma,P-017,Sticky Notes,Office Supplies,5,8.99,3.0,0.0,North,Rep 7
+ORD-1404,2025-01-31,C-022,Priya Agarwal,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,East,Rep 2
+ORD-1405,29/06/2025,C-053,Rohan Nair,P-004,4K Monitor 27in,Electronics,3,329.0,210.0,0.15,East,Rep 6
+ORD-1406,"Feb 22, 2025",C-038,Manish Reddy,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,North,Rep 8
+ORD-1407,17/12/2025,C-053,Rohan Nair,P-023,External SSD 1TB,Accessories,2,119.0,68.0,0.0,East,Rep 7
+ORD-1408,13/01/2025,C-014,Ishita Bose,P-012,Conference Table,Furniture,1,899.0,520.0,0.05,South,Rep 1
+ORD-1409,2025-11-29,C-101,Aditya Agarwal,P-009,Bookshelf,Furniture,2,129.0,65.0,0.1,North,Rep 3
+ORD-1410,"Jul 15, 2025",C-023,Priya Kulkarni,P-010,Filing Cabinet,Furniture,4,179.0,95.0,0.15,North,Rep 3
+ORD-1411,2025-12-20,C-029,Arjun Sharma,P-022,Webcam HD,Accessories,5,79.0,34.0,0.0,North,Rep 4
+ORD-1412,2025-08-08,C-044,Sneha Kulkarni,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,North,Rep 5
+ORD-1413,2025-11-29,C-073,Sanjay Iyer,P-012,Conference Table,Furniture,2,899.0,520.0,0.0,North,Rep 4
+ORD-1414,2025-03-29,C-101,Aditya Agarwal,P-010,Filing Cabinet,Furniture,2,179.0,95.0,0.1,North,Rep 8
+ORD-1415,"Nov 22, 2025",C-037,Priya Patel,P-014,Gel Pen Pack,Office Supplies,4,12.5,4.0,0.05,West,Rep 7
+ORD-1416,"Sep 15, 2025",C-105,Aditya Reddy,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.1,South,Rep 4
+ORD-1417,2025-06-29,C-114,Nikhil Mehta,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,North,Rep 1
+ORD-1418,2025-04-04,C-105,Aditya Reddy,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,South,Rep 2
+ORD-1419,2025-11-04,C-109,Neha Rao,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,East,Rep 4
+ORD-1420,2025-08-27,C-055,Neha Reddy,P-007,Standing Desk,Furniture,2,449.0,260.0,0.0,North,Rep 2
+ORD-1421,07/07/2025,C-101,Aditya Agarwal,P-013,Notebook Set,Office Supplies,3,19.99,7.0,0.0,North,Rep 7
+ORD-1422,2025-11-19,C-015,Aditya Chopra,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.05,North,Rep 3
+ORD-1423,2025-09-17,C-032,Sneha Verma,P-006,Noise-Cancelling Headphones,Electronics,2,199.0,110.0,0.15,North,Rep 4
+ORD-1424,"Nov 26, 2025",C-119,Divya Das,P-012,Conference Table,Furniture,1,899.0,520.0,0.1,South,Rep 5
+ORD-1425,2025-06-07,C-107,Vikram Nair,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.0,West,Rep 4
+ORD-1426,2025-11-06,C-084,Varun Singh,P-001,Laptop Pro 14,Electronics,4,899.0,620.0,0.0,East,Rep 3
+ORD-1427,"Sep 07, 2025",C-118,Sneha Khan,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,South,Rep 2
+ORD-1428,2025-11-21,C-029,Arjun Sharma,P-008,Ergonomic Chair,Furniture,10,299.0,160.0,0.0,North,Rep 4
+ORD-1429,2025-07-21,C-099,Sanjay Rao,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,West,Rep 2
+ORD-1430,2025-10-13,C-099,Sanjay Rao,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.15,West,Rep 8
+ORD-1431,2025-05-02,C-066,Manish Khan,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.0,South,Rep 4
+ORD-1432,18/03/2025,C-063,Karan Verma,P-007,Standing Desk,Furniture,2,449.0,260.0,0.0,North,Rep 3
+ORD-1433,2025-03-15,C-096,Varun Singh,P-021,Cable Set,Accessories,1,19.0,6.0,0.1,North,Rep 2
+ORD-1434,2025-03-20,C-059,Sneha Khan,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.05,North,Rep 5
+ORD-1435,2025-02-02,C-108,Pooja Das,P-021,Cable Set,Accessories,3,19.0,6.0,0.1,North,Rep 6
+ORD-1436,19/09/2025,C-062,Divya Gupta,P-011,Desk Lamp,Furniture,5,39.0,15.0,0.0,East,Rep 5
+ORD-1437,2025-01-30,C-114,Nikhil Mehta,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.05,North,Rep 7
+ORD-1438,29/12/2025,C-016,Karan Rao,P-008,Ergonomic Chair,Furniture,4,299.0,160.0,0.0,South,Rep 2
+ORD-1439,2025-05-23,C-076,Neha Mehta,P-019,Laptop Stand,Accessories,2,59.0,24.0,0.0,North,Rep 2
+ORD-1440,19/02/2025,C-008,Manish Verma,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.0,West,Rep 7
+ORD-1441,2025-09-23,C-063,Karan Verma,P-017,Sticky Notes,Office Supplies,5,8.99,3.0,0.0,North,Rep 7
+ORD-1442,"Jan 31, 2025",C-093,Sanjay Gupta,P-006,Noise-Cancelling Headphones,Electronics,4,199.0,110.0,0.0,South,Rep 5
+ORD-1443,2025-05-23,C-082,Arjun Menon,P-016,Stapler Pro,Office Supplies,3,22.0,9.0,0.2,East,Rep 4
+ORD-1444,2025-01-25,C-072,Pooja Rao,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.0,East,Rep 5
+ORD-1445,2025-03-19,C-017,Vikram Bose,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.15,North,Rep 6
+ORD-1446,2025-01-17,C-002,Priya Bose,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,North,Rep 3
+ORD-1447,"Dec 10, 2025",C-037,Priya Patel,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,West,Rep 8
+ORD-1448,2025-12-26,C-093,Sanjay Gupta,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.1,South,Rep 5
+ORD-1449,03/04/2025,C-056,Nikhil Verma,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.1,West,Rep 6
+ORD-1450,2025-09-07,C-076,Neha Mehta,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,North,Rep 2
+ORD-1451,2025-06-22,C-054,Varun Agarwal,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,North,Rep 5
+ORD-1452,07/04/2025,C-004,Sanjay Das,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,South,Rep 3
+ORD-1453,2025-11-07,C-040,Divya Chopra,P-011,Desk Lamp,Furniture,3,39.0,15.0,0.15,South,Rep 6
+ORD-1454,2025-06-21,C-093,Sanjay Gupta,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.0,South,Rep 2
+ORD-1455,13/02/2025,C-053,Rohan Nair,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,East,Rep 5
+ORD-1456,12/12/2025,C-002,Priya Bose,P-019,Laptop Stand,Accessories,2,59.0,24.0,0.0,North,Rep 4
+ORD-1457,2025-02-20,C-027,Rohan Kulkarni,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.0,East,Rep 5
+ORD-1458,2025-01-01,C-016,Karan Rao,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.0,South,Rep 4
+ORD-1459,03/04/2025,C-002,Priya Bose,P-014,Gel Pen Pack,Office Supplies,5,12.5,4.0,0.0,North,Rep 2
+ORD-1460,04/03/2025,C-119,Divya Das,P-014,Gel Pen Pack,Office Supplies,2,12.5,4.0,0.2,South,Rep 6
+ORD-1461,2025-12-24,C-024,Arjun Singh,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.0,North,Rep 4
+ORD-1462,"Dec 12, 2025",C-015,Aditya Chopra,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.05,North,Rep 3
+ORD-1463,"Jan 24, 2025",C-114,Nikhil Mehta,P-024,Wireless Charger,Accessories,2,35.0,13.0,0.05,North,Rep 2
+ORD-1464,2025-07-29,C-082,Arjun Menon,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.0,East,Rep 3
+ORD-1465,"Jan 14, 2025",C-084,Varun Singh,P-021,Cable Set,Accessories,10,19.0,6.0,0.0,East,Rep 2
+ORD-1466,2025-09-19,C-004,Sanjay Das,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.0,South,Rep 4
+ORD-1467,27/09/2025,C-072,Pooja Rao,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,East,Rep 8
+ORD-1468,2025-09-16,C-058,Aditya Menon,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,North,Rep 6
+ORD-1469,28/12/2025,C-028,Karan Singh,P-001,Laptop Pro 14,Electronics,3,899.0,620.0,0.0,East,Rep 3
+ORD-1470,16/06/2025,C-042,Ritu Singh,P-013,Notebook Set,Office Supplies,8,19.99,7.0,0.15,North,Rep 8
+ORD-1471,2025-10-25,C-015,Aditya Chopra,P-004,4K Monitor 27in,Electronics,5,329.0,210.0,0.0,North,Rep 3
+ORD-1472,2025-03-08,C-001,Priya Agarwal,P-008,Ergonomic Chair,Furniture,5,299.0,160.0,0.1,South,Rep 6
+ORD-1473,2025-02-12,C-071,Varun Bose,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,South,Rep 3
+ORD-1474,2025-04-26,C-067,Aarav Khan,P-024,Wireless Charger,Accessories,2,35.0,13.0,0.05,North,Rep 3
+ORD-1475,12/12/2025,C-060,Neha Pillai,P-004,4K Monitor 27in,Electronics,3,329.0,210.0,0.05,West,Rep 6
+ORD-1476,04/10/2025,C-107,Vikram Nair,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,West,Rep 6
+ORD-1477,"Jan 27, 2025",C-030,Kavya Das,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.0,North,Rep 2
+ORD-1478,"Aug 26, 2025",C-099,Sanjay Rao,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.0,West,Rep 7
+ORD-1479,07/07/2025,C-078,Manish Singh,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.2,West,Rep 1
+ORD-1480,2025-11-11,C-072,Pooja Rao,P-012,Conference Table,Furniture,3,899.0,520.0,0.0,East,Rep 4
+ORD-1481,2025-08-19,C-009,Kavya Agarwal,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.1,North,Rep 3
+ORD-1482,30/11/2025,C-096,Varun Singh,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.05,North,Rep 7
+ORD-1483,2025-02-07,C-042,Ritu Singh,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.0,North,Rep 6
+ORD-1484,2025-07-07,C-067,Aarav Khan,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,North,Rep 7
+ORD-1485,2025-08-23,C-047,Divya Agarwal,P-021,Cable Set,Accessories,3,19.0,6.0,0.0,North,Rep 3
+ORD-1486,06/04/2025,C-119,Divya Das,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.0,South,Rep 3
+ORD-1487,2025-09-04,C-047,Divya Agarwal,P-005,USB-C Hub,Electronics,5,45.0,18.0,0.1,North,Rep 4
+ORD-1488,2025-10-16,C-118,Sneha Khan,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.15,South,Rep 7
+ORD-1489,29/11/2025,C-008,Manish Verma,P-006,Noise-Cancelling Headphones,Electronics,2,199.0,110.0,0.1,West,Rep 5
+ORD-1490,2025-07-15,C-073,Sanjay Iyer,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,North,Rep 2
+ORD-1491,2025-06-25,C-030,Kavya Das,P-015,Printer Paper A4,Office Supplies,4,24.0,11.0,0.0,North,Rep 4
+ORD-1492,13/06/2025,C-020,Nikhil Kulkarni,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.0,North,Rep 5
+ORD-1493,07/11/2025,C-090,Ishita Khan,P-024,Wireless Charger,Accessories,4,35.0,13.0,0.15,North,Rep 3
+ORD-1494,2025-08-26,C-072,Pooja Rao,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,East,Rep 2
+ORD-1495,2025-10-27,C-096,Varun Singh,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,North,Rep 4
+ORD-1496,"Aug 03, 2025",C-113,Aditya Patel,P-010,Filing Cabinet,Furniture,5,179.0,95.0,0.1,East,Rep 4
+ORD-1497,04/07/2025,C-004,Sanjay Das,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,South,Rep 3
+ORD-1498,2025-03-13,C-115,Sneha Rao,P-006,Noise-Cancelling Headphones,Electronics,8,199.0,110.0,0.1,South,Rep 3
+ORD-1499,2025-09-19,C-043,Sneha Gupta,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.0,North,Rep 8
+ORD-1500,03/05/2025,C-032,Sneha Verma,P-010,Filing Cabinet,Furniture,2,179.0,95.0,0.0,North,Rep 4
+ORD-1501,09/03/2025,C-081,Ananya Rao,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,East,Rep 2
+ORD-1502,2025-05-15,C-043,Sneha Gupta,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,North,Rep 3
+ORD-1503,2025-02-24,C-083,Ritu Joshi,P-014,Gel Pen Pack,Office Supplies,5,12.5,4.0,0.0,South,Rep 8
+ORD-1504,10/02/2025,C-003,Manish Agarwal,P-007,Standing Desk,Furniture,3,449.0,260.0,0.1,East,Rep 5
+ORD-1505,2025-10-25,C-047,Divya Agarwal,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,North,Rep 8
+ORD-1506,26/01/2025,C-102,Arjun Menon,P-010,Filing Cabinet,Furniture,3,179.0,95.0,0.05,West,Rep 2
+ORD-1507,"Mar 19, 2025",C-001,Priya Agarwal,P-021,Cable Set,Accessories,2,19.0,6.0,0.0,South,Rep 1
+ORD-1508,2025-03-20,C-043,Sneha Gupta,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.15,North,Rep 4
+ORD-1509,2025-12-26,C-116,Neha Agarwal,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.05,West,Rep 5
+ORD-1510,2025-09-25,C-008,Manish Verma,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.05,West,Rep 3
+ORD-1511,2025-09-18,C-085,Ananya Das,P-024,Wireless Charger,Accessories,10,35.0,13.0,0.05,North,Rep 1
+ORD-1512,2025-11-23,C-045,Neha Kulkarni,P-017,Sticky Notes,Office Supplies,2,8.99,3.0,0.15,South,Rep 7
+ORD-1513,"Jul 14, 2025",C-019,Divya Chopra,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,East,Rep 6
+ORD-1514,2025-11-22,C-014,Ishita Bose,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,South,Rep 2
+ORD-1515,2025-09-28,C-076,Neha Mehta,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,North,Rep 1
+ORD-1516,07/03/2025,C-114,Nikhil Mehta,P-013,Notebook Set,Office Supplies,5,19.99,7.0,0.15,North,Rep 6
+ORD-1517,2025-12-11,C-054,Varun Agarwal,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,North,Rep 1
+ORD-1518,09/02/2025,C-044,Sneha Kulkarni,P-005,USB-C Hub,Electronics,3,45.0,18.0,0.0,North,Rep 6
+ORD-1519,2025-10-15,C-044,Sneha Kulkarni,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.0,North,Rep 3
+ORD-1520,23/04/2025,C-100,Arjun Rao,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.0,East,Rep 7
+ORD-1521,2025-09-20,C-022,Priya Agarwal,P-020,Phone Case,Accessories,2,24.99,8.0,0.0,East,Rep 4
+ORD-1522,2025-02-17,C-061,Sanjay Desai,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,West,Rep 4
+ORD-1523,"Apr 27, 2025",C-044,Sneha Kulkarni,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.15,North,Rep 5
+ORD-1524,2025-12-09,C-039,Nikhil Khan,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.0,West,Rep 3
+ORD-1525,2025-11-27,C-058,Aditya Menon,P-020,Phone Case,Accessories,8,24.99,8.0,0.0,North,Rep 3
+ORD-1526,"Jul 13, 2025",C-002,Priya Bose,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,North,Rep 3
+ORD-1527,2025-01-18,C-006,Divya Reddy,P-014,Gel Pen Pack,Office Supplies,2,12.5,4.0,0.0,South,Rep 4
+ORD-1528,2025-05-17,C-029,Arjun Sharma,P-012,Conference Table,Furniture,3,899.0,520.0,0.2,North,Rep 3
+ORD-1529,2025-12-20,C-072,Pooja Rao,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.05,East,Rep 6
+ORD-1530,2025-11-08,C-058,Aditya Menon,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.0,North,Rep 6
+ORD-1531,"Jan 14, 2025",C-035,Divya Nair,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,West,Rep 6
+ORD-1532,2025-09-01,C-054,Varun Agarwal,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.0,North,Rep 5
+ORD-1533,2025-08-15,C-058,Aditya Menon,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.2,North,Rep 7
+ORD-1534,2025-07-16,C-058,Aditya Menon,P-004,4K Monitor 27in,Electronics,5,329.0,210.0,0.0,North,Rep 4
+ORD-1535,2025-12-31,C-088,Sneha Rao,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,North,Rep 1
+ORD-1536,"Aug 22, 2025",C-005,Ritu Joshi,P-003,Mechanical Keyboard,Electronics,5,89.0,45.0,0.0,West,Rep 7
+ORD-1537,2025-04-30,C-004,Sanjay Das,P-015,Printer Paper A4,Office Supplies,3,24.0,11.0,0.0,South,Rep 1
+ORD-1538,2025-05-07,C-001,Priya Agarwal,P-024,Wireless Charger,Accessories,2,35.0,13.0,0.1,South,Rep 5
+ORD-1539,2025-11-17,C-053,Rohan Nair,P-015,Printer Paper A4,Office Supplies,4,24.0,11.0,0.0,East,Rep 2
+ORD-1540,2025-12-16,C-035,Divya Nair,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,West,Rep 2
+ORD-1541,2025-07-26,C-108,Pooja Das,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,North,Rep 3
+ORD-1542,2025-11-09,C-015,Aditya Chopra,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.05,North,Rep 7
+ORD-1543,2025-08-18,C-097,Varun Menon,P-020,Phone Case,Accessories,1,24.99,8.0,0.0,North,Rep 1
+ORD-1544,2025-01-16,C-042,Ritu Singh,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,North,Rep 8
+ORD-1545,2025-09-20,C-079,Sneha Mehta,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,East,Rep 5
+ORD-1546,2025-08-21,C-040,Divya Chopra,P-017,Sticky Notes,Office Supplies,2,8.99,3.0,0.05,South,Rep 4
+ORD-1547,2025-06-25,C-109,Neha Rao,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.1,East,Rep 2
+ORD-1548,2025-07-19,C-054,Varun Agarwal,P-015,Printer Paper A4,Office Supplies,5,24.0,11.0,0.0,North,Rep 3
+ORD-1549,2025-04-28,C-107,Vikram Nair,P-023,External SSD 1TB,Accessories,5,119.0,68.0,0.0,West,Rep 2
+ORD-1550,"Sep 23, 2025",C-065,Aarav Iyer,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.0,West,Rep 8
+ORD-1551,"Sep 28, 2025",C-118,Sneha Khan,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.05,South,Rep 8
+ORD-1552,31/01/2025,C-008,Manish Verma,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,West,Rep 5
+ORD-1553,2025-07-25,C-111,Sneha Chopra,P-021,Cable Set,Accessories,4,19.0,6.0,0.1,North,Rep 5
+ORD-1554,2025-04-14,C-060,Neha Pillai,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.0,West,Rep 5
+ORD-1555,2025-01-22,C-038,Manish Reddy,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.05,North,Rep 7
+ORD-1556,"Jan 24, 2025",C-106,Manish Gupta,P-007,Standing Desk,Furniture,1,449.0,260.0,0.05,South,Rep 1
+ORD-1557,07/03/2025,C-062,Divya Gupta,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.15,East,Rep 8
+ORD-1558,2025-11-09,C-066,Manish Khan,P-005,USB-C Hub,Electronics,10,45.0,18.0,0.0,South,Rep 6
+ORD-1559,2025-08-08,C-042,Ritu Singh,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,North,Rep 5
+ORD-1560,2025-04-19,C-021,Karan Bose,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.15,South,Rep 2
+ORD-1561,2025-09-20,C-095,Pooja Reddy,P-009,Bookshelf,Furniture,1,129.0,65.0,0.1,North,Rep 6
+ORD-1562,2025-08-07,C-001,Priya Agarwal,P-001,Laptop Pro 14,Electronics,10,899.0,620.0,0.1,South,Rep 3
+ORD-1563,2025-12-04,C-002,Priya Bose,P-023,External SSD 1TB,Accessories,3,119.0,68.0,0.0,North,Rep 7
+ORD-1564,03/01/2025,C-037,Priya Patel,P-018,Desk Organiser,Office Supplies,3,27.0,10.0,0.05,West,Rep 4
+ORD-1565,07/05/2025,C-117,Manish Kulkarni,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,North,Rep 5
+ORD-1566,2025-06-13,C-066,Manish Khan,P-017,Sticky Notes,Office Supplies,4,8.99,3.0,0.15,South,Rep 2
+ORD-1567,"Aug 09, 2025",C-054,Varun Agarwal,P-023,External SSD 1TB,Accessories,2,119.0,68.0,0.1,North,Rep 5
+ORD-1568,28/09/2025,C-093,Sanjay Gupta,P-006,Noise-Cancelling Headphones,Electronics,3,199.0,110.0,0.0,South,Rep 5
+ORD-1569,2025-08-18,C-001,Priya Agarwal,P-012,Conference Table,Furniture,4,899.0,520.0,0.05,South,Rep 2
+ORD-1570,07/11/2025,C-087,Pooja Patel,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.1,South,Rep 8
+ORD-1571,2025-08-11,C-001,Priya Agarwal,P-010,Filing Cabinet,Furniture,2,179.0,95.0,0.05,South,Rep 5
+ORD-1572,16/07/2025,C-099,Sanjay Rao,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.2,West,Rep 5
+ORD-1573,"Dec 28, 2025",C-117,Manish Kulkarni,P-017,Sticky Notes,Office Supplies,5,8.99,3.0,0.1,North,Rep 5
+ORD-1574,14/03/2025,C-063,Karan Verma,P-020,Phone Case,Accessories,2,24.99,8.0,0.1,North,Rep 7
+ORD-1575,"Jun 02, 2025",C-060,Neha Pillai,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.0,West,Rep 2
+ORD-1576,2025-11-14,C-058,Aditya Menon,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,North,Rep 1
+ORD-1577,"Sep 30, 2025",C-099,Sanjay Rao,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.0,West,Rep 2
+ORD-1578,2025-05-04,C-109,Neha Rao,P-018,Desk Organiser,Office Supplies,4,27.0,10.0,0.0,East,Rep 2
+ORD-1579,2025-07-06,C-058,Aditya Menon,P-008,Ergonomic Chair,Furniture,10,299.0,160.0,0.0,North,Rep 7
+ORD-1580,2025-11-22,C-066,Manish Khan,P-007,Standing Desk,Furniture,2,449.0,260.0,0.0,South,Rep 1
+ORD-1581,2025-07-16,C-114,Nikhil Mehta,P-020,Phone Case,Accessories,2,24.99,8.0,0.0,North,Rep 6
+ORD-1582,2025-07-18,C-110,Ishita Menon,P-022,Webcam HD,Accessories,8,79.0,34.0,0.1,East,Rep 7
+ORD-1583,"Jul 11, 2025",C-104,Priya Iyer,P-021,Cable Set,Accessories,1,19.0,6.0,0.1,South,Rep 2
+ORD-1584,2025-05-05,C-055,Neha Reddy,P-007,Standing Desk,Furniture,1,449.0,260.0,0.1,North,Rep 4
+ORD-1585,14/10/2025,C-005,Ritu Joshi,P-007,Standing Desk,Furniture,3,449.0,260.0,0.1,West,Rep 4
+ORD-1586,"Oct 06, 2025",C-112,Nikhil Desai,P-022,Webcam HD,Accessories,1,79.0,34.0,0.0,North,Rep 6
+ORD-1587,2025-04-30,C-099,Sanjay Rao,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.1,West,Rep 1
+ORD-1588,"Jan 18, 2025",C-120,Varun Agarwal,P-014,Gel Pen Pack,Office Supplies,4,12.5,4.0,0.2,South,Rep 2
+ORD-1589,2025-04-28,C-013,Divya Iyer,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,South,Rep 8
+ORD-1590,2025-01-02,C-014,Ishita Bose,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.0,South,Rep 3
+ORD-1591,2025-05-13,C-073,Sanjay Iyer,P-016,Stapler Pro,Office Supplies,4,22.0,9.0,0.05,North,Rep 6
+ORD-1592,2025-05-27,C-015,Aditya Chopra,P-021,Cable Set,Accessories,8,19.0,6.0,0.05,North,Rep 2
+ORD-1593,29/06/2025,C-104,Priya Iyer,P-007,Standing Desk,Furniture,2,449.0,260.0,0.0,South,Rep 8
+ORD-1594,2025-09-18,C-075,Nikhil Bose,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.2,West,Rep 5
+ORD-1595,2025-06-15,C-070,Aarav Bose,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.1,North,Rep 2
+ORD-1596,2025-11-04,C-063,Karan Verma,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.1,North,Rep 6
+ORD-1597,2025-01-21,C-095,Pooja Reddy,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,North,Rep 2
+ORD-1598,2025-11-21,C-038,Manish Reddy,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.0,North,Rep 7
+ORD-1599,2025-02-03,C-015,Aditya Chopra,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.15,North,Rep 1
+ORD-1600,"Mar 30, 2025",C-111,Sneha Chopra,P-012,Conference Table,Furniture,2,899.0,520.0,0.0,North,Rep 3
+ORD-1601,"Mar 30, 2025",C-012,Varun Verma,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,South,Rep 3
+ORD-1602,2025-08-26,C-038,Manish Reddy,P-001,Laptop Pro 14,Electronics,3,899.0,620.0,0.15,North,Rep 3
+ORD-1603,2025-08-12,C-035,Divya Nair,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.05,West,Rep 2
+ORD-1604,2025-06-19,C-058,Aditya Menon,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.0,North,Rep 3
+ORD-1605,28/08/2025,C-048,Kavya Das,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.05,West,Rep 1
+ORD-1606,2025-08-01,C-094,Ritu Desai,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,North,Rep 4
+ORD-1607,"Jun 21, 2025",C-108,Pooja Das,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.0,North,Rep 6
+ORD-1608,2025-01-25,C-015,Aditya Chopra,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.0,North,Rep 8
+ORD-1609,"Nov 23, 2025",C-095,Pooja Reddy,P-018,Desk Organiser,Office Supplies,10,27.0,10.0,0.1,North,Rep 7
+ORD-1610,"Nov 12, 2025",C-092,Karan Kulkarni,P-010,Filing Cabinet,Furniture,5,179.0,95.0,0.0,East,Rep 2
+ORD-1611,22/07/2025,C-106,Manish Gupta,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.1,South,Rep 7
+ORD-1612,21/12/2025,C-031,Varun Khan,P-014,Gel Pen Pack,Office Supplies,3,12.5,4.0,0.15,East,Rep 2
+ORD-1613,2025-08-13,C-067,Aarav Khan,P-022,Webcam HD,Accessories,1,79.0,34.0,0.2,North,Rep 3
+ORD-1614,2025-10-07,C-099,Sanjay Rao,P-020,Phone Case,Accessories,1,24.99,8.0,0.0,West,Rep 1
+ORD-1615,"Jul 21, 2025",C-007,Pooja Rao,P-021,Cable Set,Accessories,2,19.0,6.0,0.0,East,Rep 8
+ORD-1616,2025-05-06,C-024,Arjun Singh,P-021,Cable Set,Accessories,2,19.0,6.0,0.0,North,Rep 2
+ORD-1617,2025-07-04,C-044,Sneha Kulkarni,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,North,Rep 8
+ORD-1618,2025-03-11,C-119,Divya Das,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,South,Rep 7
+ORD-1619,2025-10-30,C-060,Neha Pillai,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.05,West,Rep 6
+ORD-1620,14/12/2025,C-115,Sneha Rao,P-010,Filing Cabinet,Furniture,3,179.0,95.0,0.1,South,Rep 3
+ORD-1621,30/09/2025,C-006,Divya Reddy,P-012,Conference Table,Furniture,3,899.0,520.0,0.2,South,Rep 1
+ORD-1622,2025-11-13,C-114,Nikhil Mehta,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.15,North,Rep 2
+ORD-1623,24/02/2025,C-044,Sneha Kulkarni,P-024,Wireless Charger,Accessories,2,35.0,13.0,0.0,North,Rep 3
+ORD-1624,2025-01-10,C-015,Aditya Chopra,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.05,North,Rep 4
+ORD-1625,2025-06-15,C-035,Divya Nair,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,West,Rep 3
+ORD-1626,2025-03-17,C-002,Priya Bose,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.05,North,Rep 5
+ORD-1627,2025-11-02,C-067,Aarav Khan,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.0,North,Rep 1
+ORD-1628,2025-06-21,C-050,Nikhil Menon,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.05,South,Rep 7
+ORD-1629,2025-10-22,C-073,Sanjay Iyer,P-021,Cable Set,Accessories,2,19.0,6.0,0.0,North,Rep 6
+ORD-1630,2025-08-02,C-035,Divya Nair,P-004,4K Monitor 27in,Electronics,5,329.0,210.0,0.05,West,Rep 5
+ORD-1631,2025-08-30,C-053,Rohan Nair,P-012,Conference Table,Furniture,2,899.0,520.0,0.0,East,Rep 4
+ORD-1632,23/09/2025,C-002,Priya Bose,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.05,North,Rep 7
+ORD-1633,2025-09-10,C-072,Pooja Rao,P-016,Stapler Pro,Office Supplies,8,22.0,9.0,0.0,East,Rep 6
+ORD-1634,2025-09-30,C-029,Arjun Sharma,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,North,Rep 8
+ORD-1635,2025-06-06,C-072,Pooja Rao,P-009,Bookshelf,Furniture,1,129.0,65.0,0.1,East,Rep 4
+ORD-1636,2025-10-01,C-007,Pooja Rao,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.05,East,Rep 1
+ORD-1637,2025-12-17,C-042,Ritu Singh,P-009,Bookshelf,Furniture,2,129.0,65.0,0.0,North,Rep 5
+ORD-1638,2025-07-05,C-046,Ananya Sharma,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,West,Rep 5
+ORD-1639,"Jun 14, 2025",C-001,Priya Agarwal,P-024,Wireless Charger,Accessories,8,35.0,13.0,0.0,South,Rep 4
+ORD-1640,04/10/2025,C-112,Nikhil Desai,P-012,Conference Table,Furniture,2,899.0,520.0,0.2,North,Rep 2
+ORD-1641,2025-12-28,C-106,Manish Gupta,P-001,Laptop Pro 14,Electronics,5,899.0,620.0,0.0,South,Rep 2
+ORD-1642,2025-09-14,C-060,Neha Pillai,P-018,Desk Organiser,Office Supplies,5,27.0,10.0,0.05,West,Rep 6
+ORD-1643,09/06/2025,C-014,Ishita Bose,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,South,Rep 7
+ORD-1644,2025-09-30,C-063,Karan Verma,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.1,North,Rep 4
+ORD-1645,"Aug 03, 2025",C-101,Aditya Agarwal,P-022,Webcam HD,Accessories,2,79.0,34.0,0.0,North,Rep 7
+ORD-1646,2025-06-04,C-052,Arjun Kulkarni,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.0,North,Rep 4
+ORD-1647,2025-06-21,C-027,Rohan Kulkarni,P-016,Stapler Pro,Office Supplies,4,22.0,9.0,0.0,East,Rep 8
+ORD-1648,2025-03-28,C-066,Manish Khan,P-006,Noise-Cancelling Headphones,Electronics,4,199.0,110.0,0.0,South,Rep 1
+ORD-1649,28/07/2025,C-070,Aarav Bose,P-022,Webcam HD,Accessories,2,79.0,34.0,0.0,North,Rep 4
+ORD-1650,19/04/2025,C-044,Sneha Kulkarni,P-007,Standing Desk,Furniture,2,449.0,260.0,0.0,North,Rep 3
+ORD-1651,2025-03-19,C-022,Priya Agarwal,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,East,Rep 8
+ORD-1652,"Mar 29, 2025",C-007,Pooja Rao,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,East,Rep 3
+ORD-1653,2025-12-16,C-086,Neha Chopra,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,East,Rep 8
+ORD-1654,2025-12-16,C-008,Manish Verma,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,West,Rep 2
+ORD-1655,23/04/2025,C-044,Sneha Kulkarni,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,North,Rep 2
+ORD-1656,"Jun 22, 2025",C-014,Ishita Bose,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,South,Rep 6
+ORD-1657,31/01/2025,C-024,Arjun Singh,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,North,Rep 4
+ORD-1658,2025-09-10,C-007,Pooja Rao,P-015,Printer Paper A4,Office Supplies,2,24.0,11.0,0.0,East,Rep 1
+ORD-1659,2025-01-30,C-027,Rohan Kulkarni,P-009,Bookshelf,Furniture,2,129.0,65.0,0.2,East,Rep 8
+ORD-1660,2025-12-26,C-054,Varun Agarwal,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,North,Rep 2
+ORD-1661,09/02/2025,C-056,Nikhil Verma,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.0,West,Rep 6
+ORD-1662,2025-05-24,C-106,Manish Gupta,P-010,Filing Cabinet,Furniture,2,179.0,95.0,0.0,South,Rep 1
+ORD-1663,"Mar 06, 2025",C-016,Karan Rao,P-012,Conference Table,Furniture,2,899.0,520.0,0.0,South,Rep 2
+ORD-1664,2025-12-12,C-003,Manish Agarwal,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,East,Rep 7
+ORD-1665,2025-02-06,C-089,Varun Mehta,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,North,Rep 3
+ORD-1666,"Dec 04, 2025",C-099,Sanjay Rao,P-007,Standing Desk,Furniture,2,449.0,260.0,0.05,West,Rep 5
+ORD-1667,2025-12-05,C-060,Neha Pillai,P-012,Conference Table,Furniture,1,899.0,520.0,0.05,West,Rep 5
+ORD-1668,2025-02-22,C-051,Meera Rao,P-016,Stapler Pro,Office Supplies,4,22.0,9.0,0.0,West,Rep 1
+ORD-1669,25/06/2025,C-095,Pooja Reddy,P-020,Phone Case,Accessories,1,24.99,8.0,0.15,North,Rep 4
+ORD-1670,2025-04-17,C-030,Kavya Das,P-009,Bookshelf,Furniture,1,129.0,65.0,0.05,North,Rep 4
+ORD-1671,2025-09-17,C-065,Aarav Iyer,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.1,West,Rep 7
+ORD-1672,2025-04-30,C-115,Sneha Rao,P-003,Mechanical Keyboard,Electronics,3,89.0,45.0,0.2,South,Rep 6
+ORD-1673,10/03/2025,C-070,Aarav Bose,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.1,North,Rep 3
+ORD-1674,2025-09-26,C-111,Sneha Chopra,P-022,Webcam HD,Accessories,1,79.0,34.0,0.05,North,Rep 5
+ORD-1675,2025-03-15,C-002,Priya Bose,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.05,North,Rep 5
+ORD-1676,2025-03-08,C-056,Nikhil Verma,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.05,West,Rep 1
+ORD-1677,2025-08-01,C-114,Nikhil Mehta,P-008,Ergonomic Chair,Furniture,2,299.0,160.0,0.05,North,Rep 1
+ORD-1678,16/03/2025,C-008,Manish Verma,P-018,Desk Organiser,Office Supplies,4,27.0,10.0,0.0,West,Rep 2
+ORD-1679,2025-05-11,C-070,Aarav Bose,P-006,Noise-Cancelling Headphones,Electronics,2,199.0,110.0,0.05,North,Rep 8
+ORD-1680,2025-05-01,C-078,Manish Singh,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.15,West,Rep 6
+ORD-1681,2025-10-03,C-091,Manish Patel,P-003,Mechanical Keyboard,Electronics,5,89.0,45.0,0.0,North,Rep 3
+ORD-1682,2025-11-11,C-097,Varun Menon,P-015,Printer Paper A4,Office Supplies,3,24.0,11.0,0.0,North,Rep 7
+ORD-1683,2025-11-22,C-040,Divya Chopra,P-015,Printer Paper A4,Office Supplies,2,24.0,11.0,0.2,South,Rep 7
+ORD-1684,"Nov 29, 2025",C-048,Kavya Das,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,West,Rep 7
+ORD-1685,2025-11-02,C-111,Sneha Chopra,P-012,Conference Table,Furniture,3,899.0,520.0,0.05,North,Rep 4
+ORD-1686,2025-07-21,C-060,Neha Pillai,P-009,Bookshelf,Furniture,2,129.0,65.0,0.1,West,Rep 7
+ORD-1687,2025-11-01,C-050,Nikhil Menon,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.0,South,Rep 4
+ORD-1688,2025-07-07,C-032,Sneha Verma,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,North,Rep 1
+ORD-1689,14/04/2025,C-063,Karan Verma,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.0,North,Rep 5
+ORD-1690,2025-01-03,C-111,Sneha Chopra,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.0,North,Rep 6
+ORD-1691,2025-04-25,C-107,Vikram Nair,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.05,West,Rep 2
+ORD-1692,2025-01-08,C-053,Rohan Nair,P-010,Filing Cabinet,Furniture,2,179.0,95.0,0.2,East,Rep 2
+ORD-1693,2025-12-30,C-038,Manish Reddy,P-017,Sticky Notes,Office Supplies,3,8.99,3.0,0.0,North,Rep 5
+ORD-1694,"Dec 27, 2025",C-077,Rohan Joshi,P-017,Sticky Notes,Office Supplies,3,8.99,3.0,0.0,North,Rep 8
+ORD-1695,"Jul 11, 2025",C-113,Aditya Patel,P-017,Sticky Notes,Office Supplies,3,8.99,3.0,0.0,East,Rep 2
+ORD-1696,2025-01-29,C-058,Aditya Menon,P-006,Noise-Cancelling Headphones,Electronics,3,199.0,110.0,0.0,North,Rep 5
+ORD-1697,25/04/2025,C-061,Sanjay Desai,P-021,Cable Set,Accessories,1,19.0,6.0,0.15,West,Rep 2
+ORD-1698,"Feb 12, 2025",C-024,Arjun Singh,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.05,North,Rep 1
+ORD-1699,16/10/2025,C-022,Priya Agarwal,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,East,Rep 2
+ORD-1700,2025-09-28,C-044,Sneha Kulkarni,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,North,Rep 1
+ORD-1701,2025-09-20,C-004,Sanjay Das,P-005,USB-C Hub,Electronics,8,45.0,18.0,0.05,South,Rep 2
+ORD-1702,2025-01-06,C-044,Sneha Kulkarni,P-012,Conference Table,Furniture,1,899.0,520.0,0.15,North,Rep 6
+ORD-1703,16/03/2025,C-066,Manish Khan,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.2,South,Rep 1
+ORD-1704,2025-10-10,C-097,Varun Menon,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,North,Rep 7
+ORD-1705,2025-07-30,C-078,Manish Singh,P-021,Cable Set,Accessories,3,19.0,6.0,0.1,West,Rep 4
+ORD-1706,2025-07-20,C-088,Sneha Rao,P-011,Desk Lamp,Furniture,4,39.0,15.0,0.0,North,Rep 8
+ORD-1707,2025-11-02,C-044,Sneha Kulkarni,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,North,Rep 5
+ORD-1708,2025-11-17,C-004,Sanjay Das,P-021,Cable Set,Accessories,2,19.0,6.0,0.2,South,Rep 8
+ORD-1709,"Dec 20, 2025",C-109,Neha Rao,P-007,Standing Desk,Furniture,1,449.0,260.0,0.1,East,Rep 6
+ORD-1710,"Jul 21, 2025",C-054,Varun Agarwal,P-012,Conference Table,Furniture,3,899.0,520.0,0.1,North,Rep 5
+ORD-1711,"Jul 09, 2025",C-099,Sanjay Rao,P-024,Wireless Charger,Accessories,4,35.0,13.0,0.0,West,Rep 1
+ORD-1712,2025-06-11,C-107,Vikram Nair,P-022,Webcam HD,Accessories,2,79.0,34.0,0.0,West,Rep 8
+ORD-1713,"Aug 28, 2025",C-013,Divya Iyer,P-009,Bookshelf,Furniture,4,129.0,65.0,0.0,South,Rep 8
+ORD-1714,01/04/2025,C-120,Varun Agarwal,P-022,Webcam HD,Accessories,1,79.0,34.0,0.0,South,Rep 2
+ORD-1715,2025-08-18,C-099,Sanjay Rao,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,West,Rep 5
+ORD-1716,2025-07-29,C-082,Arjun Menon,P-020,Phone Case,Accessories,2,24.99,8.0,0.2,East,Rep 3
+ORD-1717,05/01/2025,C-011,Varun Chopra,P-009,Bookshelf,Furniture,2,129.0,65.0,0.0,West,Rep 8
+ORD-1718,01/09/2025,C-061,Sanjay Desai,P-022,Webcam HD,Accessories,1,79.0,34.0,0.1,West,Rep 3
+ORD-1719,29/08/2025,C-114,Nikhil Mehta,P-001,Laptop Pro 14,Electronics,3,899.0,620.0,0.1,North,Rep 4
+ORD-1720,10/11/2025,C-066,Manish Khan,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.0,South,Rep 8
+ORD-1721,"Jan 24, 2025",C-093,Sanjay Gupta,P-014,Gel Pen Pack,Office Supplies,4,12.5,4.0,0.15,South,Rep 1
+ORD-1722,2025-12-14,C-004,Sanjay Das,P-022,Webcam HD,Accessories,4,79.0,34.0,0.0,South,Rep 3
+ORD-1723,2025-01-11,C-060,Neha Pillai,P-001,Laptop Pro 14,Electronics,3,899.0,620.0,0.0,West,Rep 1
+ORD-1724,11/08/2025,C-029,Arjun Sharma,P-013,Notebook Set,Office Supplies,5,19.99,7.0,0.1,North,Rep 4
+ORD-1725,24/07/2025,C-103,Ritu Verma,P-022,Webcam HD,Accessories,1,79.0,34.0,0.0,East,Rep 6
+ORD-1726,21/01/2025,C-109,Neha Rao,P-006,Noise-Cancelling Headphones,Electronics,8,199.0,110.0,0.0,East,Rep 6
+ORD-1727,"Oct 13, 2025",C-030,Kavya Das,P-012,Conference Table,Furniture,2,899.0,520.0,0.05,North,Rep 8
+ORD-1728,2025-10-14,C-010,Divya Sharma,P-010,Filing Cabinet,Furniture,2,179.0,95.0,0.0,North,Rep 6
+ORD-1729,"Apr 27, 2025",C-010,Divya Sharma,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,North,Rep 5
+ORD-1730,2025-03-13,C-090,Ishita Khan,P-018,Desk Organiser,Office Supplies,4,27.0,10.0,0.0,North,Rep 8
+ORD-1731,2025-05-10,C-029,Arjun Sharma,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.1,North,Rep 8
+ORD-1732,04/05/2025,C-015,Aditya Chopra,P-020,Phone Case,Accessories,2,24.99,8.0,0.0,North,Rep 1
+ORD-1733,24/07/2025,C-077,Rohan Joshi,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,North,Rep 2
+ORD-1734,18/10/2025,C-015,Aditya Chopra,P-021,Cable Set,Accessories,3,19.0,6.0,0.05,North,Rep 5
+ORD-1735,2025-04-22,C-058,Aditya Menon,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.15,North,Rep 4
+ORD-1736,2025-11-26,C-016,Karan Rao,P-012,Conference Table,Furniture,1,899.0,520.0,0.05,South,Rep 2
+ORD-1737,2025-04-16,C-097,Varun Menon,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.0,North,Rep 1
+ORD-1738,2025-07-21,C-039,Nikhil Khan,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.0,West,Rep 3
+ORD-1739,2025-06-01,C-021,Karan Bose,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.0,South,Rep 1
+ORD-1740,"May 06, 2025",C-110,Ishita Menon,P-020,Phone Case,Accessories,1,24.99,8.0,0.0,East,Rep 1
+ORD-1741,2025-11-11,C-029,Arjun Sharma,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,North,Rep 1
+ORD-1742,"May 08, 2025",C-107,Vikram Nair,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,West,Rep 6
+ORD-1743,2025-07-13,C-066,Manish Khan,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.1,South,Rep 8
+ORD-1744,2025-09-11,C-078,Manish Singh,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,West,Rep 6
+ORD-1745,2025-01-19,C-102,Arjun Menon,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.0,West,Rep 3
+ORD-1746,2025-12-23,C-019,Divya Chopra,P-021,Cable Set,Accessories,1,19.0,6.0,0.05,East,Rep 8
+ORD-1747,2025-04-08,C-111,Sneha Chopra,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.05,North,Rep 1
+ORD-1748,2025-07-15,C-078,Manish Singh,P-009,Bookshelf,Furniture,1,129.0,65.0,0.1,West,Rep 4
+ORD-1749,2025-07-02,C-074,Priya Verma,P-024,Wireless Charger,Accessories,3,35.0,13.0,0.0,North,Rep 7
+ORD-1750,2025-04-25,C-097,Varun Menon,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,North,Rep 8
+ORD-1751,2025-11-18,C-120,Varun Agarwal,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,South,Rep 3
+ORD-1752,"Jul 09, 2025",C-058,Aditya Menon,P-006,Noise-Cancelling Headphones,Electronics,3,199.0,110.0,0.0,North,Rep 6
+ORD-1753,29/08/2025,C-056,Nikhil Verma,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,West,Rep 4
+ORD-1754,2025-03-20,C-095,Pooja Reddy,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.0,North,Rep 7
+ORD-1755,"Feb 21, 2025",C-009,Kavya Agarwal,P-022,Webcam HD,Accessories,1,79.0,34.0,0.0,North,Rep 3
+ORD-1756,2025-10-21,C-030,Kavya Das,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.1,North,Rep 8
+ORD-1757,"Oct 10, 2025",C-066,Manish Khan,P-021,Cable Set,Accessories,3,19.0,6.0,0.05,South,Rep 2
+ORD-1758,2025-08-04,C-097,Varun Menon,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.0,North,Rep 5
+ORD-1759,2025-02-07,C-079,Sneha Mehta,P-013,Notebook Set,Office Supplies,4,19.99,7.0,0.0,East,Rep 3
+ORD-1760,"Jan 20, 2025",C-002,Priya Bose,P-010,Filing Cabinet,Furniture,2,179.0,95.0,0.0,North,Rep 5
+ORD-1761,2025-12-26,C-031,Varun Khan,P-007,Standing Desk,Furniture,3,449.0,260.0,0.0,East,Rep 1
+ORD-1762,22/09/2025,C-001,Priya Agarwal,P-012,Conference Table,Furniture,1,899.0,520.0,0.05,South,Rep 7
+ORD-1763,"Oct 07, 2025",C-002,Priya Bose,P-019,Laptop Stand,Accessories,2,59.0,24.0,0.2,North,Rep 2
+ORD-1764,2025-04-23,C-100,Arjun Rao,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.1,East,Rep 2
+ORD-1765,"Aug 05, 2025",C-067,Aarav Khan,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.15,North,Rep 2
+ORD-1766,2025-05-27,C-106,Manish Gupta,P-021,Cable Set,Accessories,4,19.0,6.0,0.0,South,Rep 7
+ORD-1767,31/01/2025,C-082,Arjun Menon,P-012,Conference Table,Furniture,3,899.0,520.0,0.1,East,Rep 8
+ORD-1768,2025-09-18,C-097,Varun Menon,P-002,Wireless Mouse,Electronics,5,29.99,12.0,0.05,North,Rep 2
+ORD-1769,2025-04-08,C-059,Sneha Khan,P-022,Webcam HD,Accessories,3,79.0,34.0,0.0,North,Rep 2
+ORD-1770,2025-12-25,C-054,Varun Agarwal,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.0,North,Rep 4
+ORD-1771,10/12/2025,C-119,Divya Das,P-015,Printer Paper A4,Office Supplies,2,24.0,11.0,0.05,South,Rep 3
+ORD-1772,2025-11-20,C-027,Rohan Kulkarni,P-018,Desk Organiser,Office Supplies,8,27.0,10.0,0.1,East,Rep 4
+ORD-1773,2025-09-19,C-057,Neha Gupta,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,West,Rep 2
+ORD-1774,2025-08-04,C-055,Neha Reddy,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.15,North,Rep 7
+ORD-1775,"Dec 03, 2025",C-008,Manish Verma,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.1,West,Rep 3
+ORD-1776,2025-03-23,C-034,Arjun Pillai,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,West,Rep 5
+ORD-1777,2025-09-09,C-004,Sanjay Das,P-007,Standing Desk,Furniture,1,449.0,260.0,0.05,South,Rep 2
+ORD-1778,2025-04-02,C-024,Arjun Singh,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.0,North,Rep 3
+ORD-1779,"Dec 30, 2025",C-113,Aditya Patel,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,East,Rep 4
+ORD-1780,2025-11-16,C-099,Sanjay Rao,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,West,Rep 7
+ORD-1781,2025-11-28,C-008,Manish Verma,P-021,Cable Set,Accessories,2,19.0,6.0,0.0,West,Rep 6
+ORD-1782,2025-12-08,C-056,Nikhil Verma,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.0,West,Rep 6
+ORD-1783,2025-05-18,C-107,Vikram Nair,P-020,Phone Case,Accessories,1,24.99,8.0,0.0,West,Rep 3
+ORD-1784,15/01/2025,C-035,Divya Nair,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.0,West,Rep 4
+ORD-1785,2025-02-01,C-107,Vikram Nair,P-004,4K Monitor 27in,Electronics,5,329.0,210.0,0.0,West,Rep 7
+ORD-1786,2025-10-11,C-120,Varun Agarwal,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,South,Rep 4
+ORD-1787,08/10/2025,C-058,Aditya Menon,P-021,Cable Set,Accessories,1,19.0,6.0,0.05,North,Rep 7
+ORD-1788,2025-06-09,C-080,Aditya Agarwal,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,North,Rep 8
+ORD-1789,2025-12-25,C-055,Neha Reddy,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,North,Rep 2
+ORD-1790,2025-05-02,C-007,Pooja Rao,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,East,Rep 4
+ORD-1791,2025-04-12,C-073,Sanjay Iyer,P-020,Phone Case,Accessories,5,24.99,8.0,0.0,North,Rep 2
+ORD-1792,2025-05-19,C-070,Aarav Bose,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,North,Rep 2
+ORD-1793,20/04/2025,C-073,Sanjay Iyer,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,North,Rep 7
+ORD-1794,2025-04-17,C-072,Pooja Rao,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.15,East,Rep 1
+ORD-1795,2025-04-08,C-111,Sneha Chopra,P-009,Bookshelf,Furniture,3,129.0,65.0,0.05,North,Rep 1
+ORD-1796,2025-02-25,C-074,Priya Verma,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.1,North,Rep 3
+ORD-1797,2025-01-29,C-002,Priya Bose,P-007,Standing Desk,Furniture,1,449.0,260.0,0.05,North,Rep 7
+ORD-1798,2025-02-16,C-023,Priya Kulkarni,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.0,North,Rep 7
+ORD-1799,"Aug 02, 2025",C-053,Rohan Nair,P-023,External SSD 1TB,Accessories,10,119.0,68.0,0.0,East,Rep 8
+ORD-1800,"Jul 17, 2025",C-060,Neha Pillai,P-012,Conference Table,Furniture,2,899.0,520.0,0.0,West,Rep 6
+ORD-1801,2025-09-13,C-067,Aarav Khan,P-007,Standing Desk,Furniture,1,449.0,260.0,0.05,North,Rep 6
+ORD-1802,2025-06-08,C-001,Priya Agarwal,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.0,South,Rep 4
+ORD-1803,03/02/2025,C-035,Divya Nair,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,West,Rep 8
+ORD-1804,"Dec 08, 2025",C-070,Aarav Bose,P-010,Filing Cabinet,Furniture,4,179.0,95.0,0.0,North,Rep 6
+ORD-1805,28/02/2025,C-082,Arjun Menon,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.0,East,Rep 3
+ORD-1806,2025-12-19,C-040,Divya Chopra,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.0,South,Rep 6
+ORD-1807,2025-10-19,C-054,Varun Agarwal,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,North,Rep 4
+ORD-1808,2025-11-07,C-092,Karan Kulkarni,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,East,Rep 4
+ORD-1809,23/07/2025,C-082,Arjun Menon,P-014,Gel Pen Pack,Office Supplies,2,12.5,4.0,0.15,East,Rep 4
+ORD-1810,2025-01-07,C-029,Arjun Sharma,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.0,North,Rep 3
+ORD-1811,2025-04-23,C-079,Sneha Mehta,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.0,East,Rep 4
+ORD-1812,17/03/2025,C-053,Rohan Nair,P-021,Cable Set,Accessories,5,19.0,6.0,0.0,East,Rep 1
+ORD-1813,"Sep 22, 2025",C-093,Sanjay Gupta,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.1,South,Rep 1
+ORD-1814,2025-01-05,C-010,Divya Sharma,P-020,Phone Case,Accessories,4,24.99,8.0,0.0,North,Rep 6
+ORD-1815,2025-06-20,C-051,Meera Rao,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,West,Rep 6
+ORD-1816,2025-02-28,C-097,Varun Menon,P-001,Laptop Pro 14,Electronics,3,899.0,620.0,0.1,North,Rep 3
+ORD-1817,05/02/2025,C-115,Sneha Rao,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.05,South,Rep 1
+ORD-1818,"Apr 25, 2025",C-060,Neha Pillai,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.1,West,Rep 7
+ORD-1819,"Feb 18, 2025",C-038,Manish Reddy,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,North,Rep 6
+ORD-1820,22/06/2025,C-030,Kavya Das,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.0,North,Rep 3
+ORD-1821,2025-04-03,C-082,Arjun Menon,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,East,Rep 2
+ORD-1822,2025-08-21,C-072,Pooja Rao,P-009,Bookshelf,Furniture,4,129.0,65.0,0.1,East,Rep 7
+ORD-1823,"Sep 26, 2025",C-051,Meera Rao,P-003,Mechanical Keyboard,Electronics,10,89.0,45.0,0.0,West,Rep 3
+ORD-1824,25/06/2025,C-034,Arjun Pillai,P-017,Sticky Notes,Office Supplies,2,8.99,3.0,0.0,West,Rep 8
+ORD-1825,"Nov 30, 2025",C-099,Sanjay Rao,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.0,West,Rep 2
+ORD-1826,2025-11-27,C-085,Ananya Das,P-024,Wireless Charger,Accessories,4,35.0,13.0,0.0,North,Rep 2
+ORD-1827,"Apr 01, 2025",C-010,Divya Sharma,P-017,Sticky Notes,Office Supplies,2,8.99,3.0,0.0,North,Rep 8
+ORD-1828,12/05/2025,C-100,Arjun Rao,P-009,Bookshelf,Furniture,2,129.0,65.0,0.15,East,Rep 1
+ORD-1829,05/06/2025,C-015,Aditya Chopra,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.15,North,Rep 4
+ORD-1830,2025-05-18,C-027,Rohan Kulkarni,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.0,East,Rep 5
+ORD-1831,02/09/2025,C-099,Sanjay Rao,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.05,West,Rep 2
+ORD-1832,27/05/2025,C-090,Ishita Khan,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.1,North,Rep 4
+ORD-1833,2025-08-20,C-119,Divya Das,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.1,South,Rep 5
+ORD-1834,28/10/2025,C-078,Manish Singh,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.05,West,Rep 5
+ORD-1835,2025-12-26,C-029,Arjun Sharma,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.1,North,Rep 2
+ORD-1836,2025-05-26,C-086,Neha Chopra,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.0,East,Rep 5
+ORD-1837,2025-04-08,C-001,Priya Agarwal,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.0,South,Rep 1
+ORD-1838,2025-08-30,C-073,Sanjay Iyer,P-020,Phone Case,Accessories,1,24.99,8.0,0.15,North,Rep 8
+ORD-1839,2025-06-14,C-057,Neha Gupta,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.1,West,Rep 8
+ORD-1840,2025-12-06,C-028,Karan Singh,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,East,Rep 2
+ORD-1841,2025-09-03,C-022,Priya Agarwal,P-008,Ergonomic Chair,Furniture,5,299.0,160.0,0.0,East,Rep 1
+ORD-1842,2025-11-19,C-084,Varun Singh,P-012,Conference Table,Furniture,2,899.0,520.0,0.0,East,Rep 8
+ORD-1843,2025-07-06,C-044,Sneha Kulkarni,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.0,North,Rep 6
+ORD-1844,2025-10-22,C-017,Vikram Bose,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.1,North,Rep 6
+ORD-1845,2025-09-29,C-053,Rohan Nair,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,East,Rep 2
+ORD-1846,2025-10-08,C-023,Priya Kulkarni,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,North,Rep 4
+ORD-1847,2025-06-24,C-113,Aditya Patel,P-015,Printer Paper A4,Office Supplies,4,24.0,11.0,0.15,East,Rep 6
+ORD-1848,2025-09-04,C-073,Sanjay Iyer,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,North,Rep 5
+ORD-1849,2025-01-04,C-106,Manish Gupta,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.0,South,Rep 5
+ORD-1850,2025-03-24,C-109,Neha Rao,P-019,Laptop Stand,Accessories,4,59.0,24.0,0.1,East,Rep 2
+ORD-1851,2025-03-06,C-040,Divya Chopra,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.0,South,Rep 8
+ORD-1852,2025-04-06,C-102,Arjun Menon,P-024,Wireless Charger,Accessories,10,35.0,13.0,0.0,West,Rep 8
+ORD-1853,2025-08-07,C-010,Divya Sharma,P-011,Desk Lamp,Furniture,3,39.0,15.0,0.0,North,Rep 5
+ORD-1854,2025-08-04,C-072,Pooja Rao,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,East,Rep 8
+ORD-1855,2025-03-03,C-114,Nikhil Mehta,P-008,Ergonomic Chair,Furniture,2,299.0,160.0,0.05,North,Rep 3
+ORD-1856,2025-04-24,C-060,Neha Pillai,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.0,West,Rep 8
+ORD-1857,2025-12-27,C-028,Karan Singh,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.0,East,Rep 3
+ORD-1858,2025-10-04,C-019,Divya Chopra,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.0,East,Rep 7
+ORD-1859,"Jun 14, 2025",C-099,Sanjay Rao,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.15,West,Rep 3
+ORD-1860,2025-06-14,C-095,Pooja Reddy,P-021,Cable Set,Accessories,1,19.0,6.0,0.2,North,Rep 1
+ORD-1861,2025-09-24,C-075,Nikhil Bose,P-014,Gel Pen Pack,Office Supplies,4,12.5,4.0,0.1,West,Rep 5
+ORD-1862,01/05/2025,C-002,Priya Bose,P-022,Webcam HD,Accessories,4,79.0,34.0,0.0,North,Rep 7
+ORD-1863,2025-04-28,C-060,Neha Pillai,P-004,4K Monitor 27in,Electronics,4,329.0,210.0,0.0,West,Rep 5
+ORD-1864,2025-10-17,C-114,Nikhil Mehta,P-002,Wireless Mouse,Electronics,5,29.99,12.0,0.05,North,Rep 7
+ORD-1865,2025-01-22,C-060,Neha Pillai,P-019,Laptop Stand,Accessories,2,59.0,24.0,0.0,West,Rep 4
+ORD-1866,2025-08-06,C-066,Manish Khan,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,South,Rep 7
+ORD-1867,2025-12-25,C-038,Manish Reddy,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.0,North,Rep 4
+ORD-1868,2025-11-25,C-059,Sneha Khan,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,North,Rep 3
+ORD-1869,2025-08-30,C-066,Manish Khan,P-021,Cable Set,Accessories,1,19.0,6.0,0.15,South,Rep 3
+ORD-1870,2025-11-13,C-109,Neha Rao,P-019,Laptop Stand,Accessories,4,59.0,24.0,0.0,East,Rep 1
+ORD-1871,2025-02-06,C-058,Aditya Menon,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,North,Rep 1
+ORD-1872,2025-05-12,C-070,Aarav Bose,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.2,North,Rep 4
+ORD-1873,2025-02-23,C-053,Rohan Nair,P-023,External SSD 1TB,Accessories,2,119.0,68.0,0.05,East,Rep 3
+ORD-1874,2025-10-15,C-011,Varun Chopra,P-022,Webcam HD,Accessories,2,79.0,34.0,0.05,West,Rep 6
+ORD-1875,19/01/2025,C-019,Divya Chopra,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,East,Rep 1
+ORD-1876,18/07/2025,C-062,Divya Gupta,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,East,Rep 2
+ORD-1877,2025-01-22,C-107,Vikram Nair,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,West,Rep 8
+ORD-1878,12/08/2025,C-072,Pooja Rao,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.05,East,Rep 1
+ORD-1879,2025-12-24,C-054,Varun Agarwal,P-022,Webcam HD,Accessories,1,79.0,34.0,0.1,North,Rep 5
+ORD-1880,2025-04-16,C-018,Sanjay Sharma,P-021,Cable Set,Accessories,2,19.0,6.0,0.0,East,Rep 6
+ORD-1881,"Jan 22, 2025",C-114,Nikhil Mehta,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.0,North,Rep 4
+ORD-1882,"Apr 12, 2025",C-116,Neha Agarwal,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,West,Rep 2
+ORD-1883,2025-01-16,C-037,Priya Patel,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.0,West,Rep 5
+ORD-1884,2025-02-11,C-008,Manish Verma,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,West,Rep 1
+ORD-1885,2025-03-22,C-029,Arjun Sharma,P-001,Laptop Pro 14,Electronics,3,899.0,620.0,0.15,North,Rep 4
+ORD-1886,11/06/2025,C-086,Neha Chopra,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.0,East,Rep 6
+ORD-1887,"Aug 09, 2025",C-014,Ishita Bose,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,South,Rep 3
+ORD-1888,2025-07-02,C-077,Rohan Joshi,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,North,Rep 6
+ORD-1889,2025-07-09,C-004,Sanjay Das,P-020,Phone Case,Accessories,1,24.99,8.0,0.1,South,Rep 7
+ORD-1890,2025-11-26,C-072,Pooja Rao,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,East,Rep 8
+ORD-1891,2025-08-17,C-015,Aditya Chopra,P-016,Stapler Pro,Office Supplies,4,22.0,9.0,0.0,North,Rep 1
+ORD-1892,"May 13, 2025",C-107,Vikram Nair,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.2,West,Rep 6
+ORD-1893,"Nov 10, 2025",C-107,Vikram Nair,P-022,Webcam HD,Accessories,1,79.0,34.0,0.1,West,Rep 5
+ORD-1894,05/10/2025,C-019,Divya Chopra,P-014,Gel Pen Pack,Office Supplies,8,12.5,4.0,0.0,East,Rep 8
+ORD-1895,01/06/2025,C-024,Arjun Singh,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.1,North,Rep 5
+ORD-1896,2025-05-05,C-072,Pooja Rao,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.1,East,Rep 4
+ORD-1897,2025-10-20,C-069,Varun Sharma,P-017,Sticky Notes,Office Supplies,10,8.99,3.0,0.0,North,Rep 3
+ORD-1898,08/02/2025,C-066,Manish Khan,P-002,Wireless Mouse,Electronics,3,29.99,12.0,0.0,South,Rep 2
+ORD-1899,"Sep 03, 2025",C-120,Varun Agarwal,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.0,South,Rep 3
+ORD-1900,2025-06-19,C-031,Varun Khan,P-024,Wireless Charger,Accessories,2,35.0,13.0,0.0,East,Rep 2
+ORD-1901,2025-01-17,C-112,Nikhil Desai,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.0,North,Rep 1
+ORD-1902,2025-09-04,C-107,Vikram Nair,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,West,Rep 8
+ORD-1903,2025-12-09,C-054,Varun Agarwal,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.1,North,Rep 6
+ORD-1904,2025-04-12,C-015,Aditya Chopra,P-010,Filing Cabinet,Furniture,3,179.0,95.0,0.05,North,Rep 6
+ORD-1905,11/11/2025,C-035,Divya Nair,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,West,Rep 7
+ORD-1906,2025-08-16,C-038,Manish Reddy,P-010,Filing Cabinet,Furniture,3,179.0,95.0,0.05,North,Rep 2
+ORD-1907,27/03/2025,C-112,Nikhil Desai,P-016,Stapler Pro,Office Supplies,3,22.0,9.0,0.05,North,Rep 6
+ORD-1908,2025-12-04,C-114,Nikhil Mehta,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,North,Rep 3
+ORD-1909,2025-09-07,C-005,Ritu Joshi,P-020,Phone Case,Accessories,1,24.99,8.0,0.15,West,Rep 8
+ORD-1910,18/12/2025,C-054,Varun Agarwal,P-010,Filing Cabinet,Furniture,4,179.0,95.0,0.0,North,Rep 5
+ORD-1911,2025-12-31,C-002,Priya Bose,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.05,North,Rep 6
+ORD-1912,2025-04-16,C-089,Varun Mehta,P-004,4K Monitor 27in,Electronics,4,329.0,210.0,0.0,North,Rep 7
+ORD-1913,28/10/2025,C-021,Karan Bose,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.1,South,Rep 1
+ORD-1914,"Mar 21, 2025",C-056,Nikhil Verma,P-007,Standing Desk,Furniture,2,449.0,260.0,0.0,West,Rep 7
+ORD-1915,2025-07-03,C-054,Varun Agarwal,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,North,Rep 3
+ORD-1916,24/09/2025,C-002,Priya Bose,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,North,Rep 6
+ORD-1917,05/08/2025,C-092,Karan Kulkarni,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.0,East,Rep 2
+ORD-1918,08/11/2025,C-034,Arjun Pillai,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.0,West,Rep 6
+ORD-1919,2025-07-05,C-002,Priya Bose,P-018,Desk Organiser,Office Supplies,8,27.0,10.0,0.0,North,Rep 3
+ORD-1920,04/06/2025,C-058,Aditya Menon,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.15,North,Rep 2
+ORD-1921,2025-12-17,C-101,Aditya Agarwal,P-016,Stapler Pro,Office Supplies,5,22.0,9.0,0.05,North,Rep 3
+ORD-1922,2025-06-26,C-078,Manish Singh,P-008,Ergonomic Chair,Furniture,3,299.0,160.0,0.0,West,Rep 5
+ORD-1923,2025-03-27,C-114,Nikhil Mehta,P-020,Phone Case,Accessories,1,24.99,8.0,0.0,North,Rep 7
+ORD-1924,"Nov 08, 2025",C-093,Sanjay Gupta,P-007,Standing Desk,Furniture,1,449.0,260.0,0.1,South,Rep 4
+ORD-1925,2025-07-31,C-055,Neha Reddy,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,North,Rep 6
+ORD-1926,2025-03-15,C-114,Nikhil Mehta,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.05,North,Rep 4
+ORD-1927,26/01/2025,C-082,Arjun Menon,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,East,Rep 6
+ORD-1928,23/01/2025,C-099,Sanjay Rao,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.0,West,Rep 6
+ORD-1929,"Sep 03, 2025",C-004,Sanjay Das,P-003,Mechanical Keyboard,Electronics,5,89.0,45.0,0.0,South,Rep 6
+ORD-1930,2025-02-24,C-026,Pooja Nair,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.2,North,Rep 7
+ORD-1931,2025-01-01,C-044,Sneha Kulkarni,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.15,North,Rep 8
+ORD-1932,2025-11-27,C-014,Ishita Bose,P-016,Stapler Pro,Office Supplies,3,22.0,9.0,0.0,South,Rep 8
+ORD-1933,"Apr 09, 2025",C-041,Rohan Kulkarni,P-016,Stapler Pro,Office Supplies,4,22.0,9.0,0.0,East,Rep 8
+ORD-1934,2025-05-05,C-002,Priya Bose,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,North,Rep 5
+ORD-1935,2025-09-01,C-107,Vikram Nair,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.0,West,Rep 4
+ORD-1936,2025-10-29,C-071,Varun Bose,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,South,Rep 6
+ORD-1937,2025-02-16,C-119,Divya Das,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,South,Rep 2
+ORD-1938,2025-08-11,C-055,Neha Reddy,P-007,Standing Desk,Furniture,1,449.0,260.0,0.05,North,Rep 1
+ORD-1939,"Dec 07, 2025",C-039,Nikhil Khan,P-007,Standing Desk,Furniture,1,449.0,260.0,0.2,West,Rep 7
+ORD-1940,2025-05-19,C-105,Aditya Reddy,P-020,Phone Case,Accessories,1,24.99,8.0,0.1,South,Rep 4
+ORD-1941,2025-05-02,C-072,Pooja Rao,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,East,Rep 8
+ORD-1942,2025-08-04,C-072,Pooja Rao,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,East,Rep 1
+ORD-1943,"Aug 30, 2025",C-081,Ananya Rao,P-024,Wireless Charger,Accessories,2,35.0,13.0,0.0,East,Rep 1
+ORD-1944,22/05/2025,C-019,Divya Chopra,P-006,Noise-Cancelling Headphones,Electronics,4,199.0,110.0,0.0,East,Rep 5
+ORD-1945,17/09/2025,C-015,Aditya Chopra,P-008,Ergonomic Chair,Furniture,5,299.0,160.0,0.0,North,Rep 1
+ORD-1946,2025-03-15,C-114,Nikhil Mehta,P-019,Laptop Stand,Accessories,2,59.0,24.0,0.0,North,Rep 6
+ORD-1947,2025-11-27,C-015,Aditya Chopra,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,North,Rep 7
+ORD-1948,"May 12, 2025",C-012,Varun Verma,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.1,South,Rep 6
+ORD-1949,28/09/2025,C-048,Kavya Das,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.05,West,Rep 6
+ORD-1950,2025-12-17,C-067,Aarav Khan,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.05,North,Rep 4
+ORD-1951,2025-10-30,C-069,Varun Sharma,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,North,Rep 6
+ORD-1952,2025-12-07,C-053,Rohan Nair,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.0,East,Rep 4
+ORD-1953,2025-12-02,C-111,Sneha Chopra,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,North,Rep 1
+ORD-1954,21/08/2025,C-054,Varun Agarwal,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.05,North,Rep 7
+ORD-1955,2025-09-10,C-073,Sanjay Iyer,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,North,Rep 7
+ORD-1956,2025-08-24,C-004,Sanjay Das,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.05,South,Rep 2
+ORD-1957,2025-01-05,C-072,Pooja Rao,P-015,Printer Paper A4,Office Supplies,3,24.0,11.0,0.1,East,Rep 1
+ORD-1958,2025-05-04,C-054,Varun Agarwal,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,North,Rep 7
+ORD-1959,2025-09-16,C-034,Arjun Pillai,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.0,West,Rep 5
+ORD-1960,06/06/2025,C-099,Sanjay Rao,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.05,West,Rep 7
+ORD-1961,"Aug 15, 2025",C-007,Pooja Rao,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.0,East,Rep 8
+ORD-1962,2025-06-26,C-070,Aarav Bose,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,North,Rep 6
+ORD-1963,2025-11-02,C-014,Ishita Bose,P-022,Webcam HD,Accessories,3,79.0,34.0,0.0,South,Rep 1
+ORD-1964,2025-07-27,C-013,Divya Iyer,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,South,Rep 5
+ORD-1965,12/09/2025,C-103,Ritu Verma,P-022,Webcam HD,Accessories,2,79.0,34.0,0.1,East,Rep 3
+ORD-1966,"Aug 04, 2025",C-060,Neha Pillai,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.0,West,Rep 3
+ORD-1967,29/05/2025,C-107,Vikram Nair,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,West,Rep 5
+ORD-1968,2025-06-17,C-002,Priya Bose,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.1,North,Rep 1
+ORD-1969,2025-08-03,C-008,Manish Verma,P-022,Webcam HD,Accessories,2,79.0,34.0,0.1,West,Rep 6
+ORD-1970,"Apr 29, 2025",C-011,Varun Chopra,P-015,Printer Paper A4,Office Supplies,4,24.0,11.0,0.0,West,Rep 3
+ORD-1971,2025-02-10,C-004,Sanjay Das,P-020,Phone Case,Accessories,3,24.99,8.0,0.0,South,Rep 4
+ORD-1972,2025-12-04,C-104,Priya Iyer,P-019,Laptop Stand,Accessories,2,59.0,24.0,0.1,South,Rep 8
+ORD-1973,2025-12-27,C-082,Arjun Menon,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,East,Rep 7
+ORD-1974,2025-12-31,C-008,Manish Verma,P-024,Wireless Charger,Accessories,3,35.0,13.0,0.0,West,Rep 3
+ORD-1975,"Nov 30, 2025",C-099,Sanjay Rao,P-002,Wireless Mouse,Electronics,4,29.99,12.0,0.05,West,Rep 3
+ORD-1976,2025-12-05,C-038,Manish Reddy,P-004,4K Monitor 27in,Electronics,4,329.0,210.0,0.05,North,Rep 7
+ORD-1977,2025-03-08,C-115,Sneha Rao,P-022,Webcam HD,Accessories,2,79.0,34.0,0.05,South,Rep 8
+ORD-1978,02/06/2025,C-088,Sneha Rao,P-001,Laptop Pro 14,Electronics,3,899.0,620.0,0.15,North,Rep 3
+ORD-1979,2025-01-28,C-021,Karan Bose,P-017,Sticky Notes,Office Supplies,8,8.99,3.0,0.2,South,Rep 8
+ORD-1980,15/01/2025,C-048,Kavya Das,P-008,Ergonomic Chair,Furniture,3,299.0,160.0,0.0,West,Rep 3
+ORD-1981,03/03/2025,C-058,Aditya Menon,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.0,North,Rep 1
+ORD-1982,"Dec 06, 2025",C-093,Sanjay Gupta,P-009,Bookshelf,Furniture,2,129.0,65.0,0.0,South,Rep 8
+ORD-1983,2025-08-28,C-044,Sneha Kulkarni,P-009,Bookshelf,Furniture,3,129.0,65.0,0.1,North,Rep 8
+ORD-1984,2025-04-11,C-062,Divya Gupta,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.05,East,Rep 6
+ORD-1985,2025-10-07,C-007,Pooja Rao,P-014,Gel Pen Pack,Office Supplies,10,12.5,4.0,0.2,East,Rep 4
+ORD-1986,23/11/2025,C-030,Kavya Das,P-003,Mechanical Keyboard,Electronics,4,89.0,45.0,0.1,North,Rep 7
+ORD-1987,2025-07-03,C-101,Aditya Agarwal,P-020,Phone Case,Accessories,2,24.99,8.0,0.0,North,Rep 1
+ORD-1988,2025-10-24,C-073,Sanjay Iyer,P-016,Stapler Pro,Office Supplies,5,22.0,9.0,0.05,North,Rep 5
+ORD-1989,15/06/2025,C-072,Pooja Rao,P-010,Filing Cabinet,Furniture,3,179.0,95.0,0.0,East,Rep 5
+ORD-1990,"Oct 08, 2025",C-084,Varun Singh,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.1,East,Rep 7
+ORD-1991,31/01/2025,C-082,Arjun Menon,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.0,East,Rep 7
+ORD-1992,2025-05-03,C-024,Arjun Singh,P-009,Bookshelf,Furniture,1,129.0,65.0,0.05,North,Rep 3
+ORD-1993,2025-10-06,C-019,Divya Chopra,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,East,Rep 6
+ORD-1994,13/04/2025,C-062,Divya Gupta,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.0,East,Rep 7
+ORD-1995,"Sep 11, 2025",C-065,Aarav Iyer,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.15,West,Rep 5
+ORD-1996,2025-07-07,C-023,Priya Kulkarni,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,North,Rep 6
+ORD-1997,03/07/2025,C-109,Neha Rao,P-014,Gel Pen Pack,Office Supplies,5,12.5,4.0,0.0,East,Rep 1
+ORD-1998,"Oct 28, 2025",C-120,Varun Agarwal,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,South,Rep 4
+ORD-1999,"Nov 09, 2025",C-068,Arjun Pillai,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,South,Rep 3
+ORD-2000,23/08/2025,C-002,Priya Bose,P-007,Standing Desk,Furniture,3,449.0,260.0,0.05,North,Rep 5
+ORD-2001,10/11/2025,C-087,Pooja Patel,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,South,Rep 6
+ORD-2002,2025-04-29,C-010,Divya Sharma,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,North,Rep 5
+ORD-2003,2025-03-16,C-086,Neha Chopra,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.0,East,Rep 2
+ORD-2004,2025-10-28,C-115,Sneha Rao,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,South,Rep 4
+ORD-2005,2025-11-16,C-007,Pooja Rao,P-004,4K Monitor 27in,Electronics,8,329.0,210.0,0.0,East,Rep 5
+ORD-2006,17/11/2025,C-002,Priya Bose,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.1,North,Rep 4
+ORD-2007,25/01/2025,C-103,Ritu Verma,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,East,Rep 7
+ORD-2008,04/07/2025,C-108,Pooja Das,P-014,Gel Pen Pack,Office Supplies,2,12.5,4.0,0.0,North,Rep 7
+ORD-2009,20/12/2025,C-008,Manish Verma,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.0,West,Rep 3
+ORD-2010,20/08/2025,C-099,Sanjay Rao,P-022,Webcam HD,Accessories,4,79.0,34.0,0.0,West,Rep 5
+ORD-2011,2025-01-04,C-093,Sanjay Gupta,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,South,Rep 2
+ORD-2012,"Nov 08, 2025",C-101,Aditya Agarwal,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.2,North,Rep 6
+ORD-2013,2025-05-06,C-031,Varun Khan,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.0,East,Rep 2
+ORD-2014,"Jun 07, 2025",C-078,Manish Singh,P-024,Wireless Charger,Accessories,2,35.0,13.0,0.0,West,Rep 7
+ORD-2015,2025-11-07,C-002,Priya Bose,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.0,North,Rep 6
+ORD-2016,2025-05-28,C-077,Rohan Joshi,P-022,Webcam HD,Accessories,2,79.0,34.0,0.0,North,Rep 7
+ORD-2017,2025-06-21,C-074,Priya Verma,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,North,Rep 6
+ORD-2018,2025-05-06,C-001,Priya Agarwal,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,South,Rep 8
+ORD-2019,10/04/2025,C-097,Varun Menon,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.05,North,Rep 7
+ORD-2020,2025-06-04,C-004,Sanjay Das,P-018,Desk Organiser,Office Supplies,10,27.0,10.0,0.2,South,Rep 6
+ORD-2021,"Oct 18, 2025",C-044,Sneha Kulkarni,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.05,North,Rep 5
+ORD-2022,2025-07-31,C-102,Arjun Menon,P-015,Printer Paper A4,Office Supplies,2,24.0,11.0,0.0,West,Rep 5
+ORD-2023,2025-06-01,C-115,Sneha Rao,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,South,Rep 6
+ORD-2024,2025-12-21,C-111,Sneha Chopra,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,North,Rep 8
+ORD-2025,2025-11-21,C-101,Aditya Agarwal,P-020,Phone Case,Accessories,2,24.99,8.0,0.0,North,Rep 5
+ORD-2026,2025-03-08,C-004,Sanjay Das,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.1,South,Rep 4
+ORD-2027,2025-11-20,C-096,Varun Singh,P-019,Laptop Stand,Accessories,2,59.0,24.0,0.0,North,Rep 6
+ORD-2028,2025-02-21,C-004,Sanjay Das,P-024,Wireless Charger,Accessories,4,35.0,13.0,0.05,South,Rep 6
+ORD-2029,2025-12-26,C-109,Neha Rao,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.15,East,Rep 7
+ORD-2030,2025-11-24,C-015,Aditya Chopra,P-018,Desk Organiser,Office Supplies,5,27.0,10.0,0.0,North,Rep 4
+ORD-2031,2025-07-01,C-011,Varun Chopra,P-009,Bookshelf,Furniture,1,129.0,65.0,0.2,West,Rep 8
+ORD-2032,2025-12-07,C-036,Ananya Chopra,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,South,Rep 7
+ORD-2033,"Oct 26, 2025",C-120,Varun Agarwal,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.0,South,Rep 4
+ORD-2034,2025-02-09,C-034,Arjun Pillai,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,West,Rep 1
+ORD-2035,04/04/2025,C-002,Priya Bose,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,North,Rep 5
+ORD-2036,05/11/2025,C-108,Pooja Das,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,North,Rep 8
+ORD-2037,2025-05-15,C-107,Vikram Nair,P-010,Filing Cabinet,Furniture,2,179.0,95.0,0.0,West,Rep 3
+ORD-2038,2025-02-28,C-113,Aditya Patel,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,East,Rep 1
+ORD-2039,2025-07-25,C-073,Sanjay Iyer,P-020,Phone Case,Accessories,1,24.99,8.0,0.0,North,Rep 7
+ORD-2040,2025-03-22,C-002,Priya Bose,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.0,North,Rep 6
+ORD-2041,14/07/2025,C-030,Kavya Das,P-020,Phone Case,Accessories,1,24.99,8.0,0.05,North,Rep 1
+ORD-2042,19/02/2025,C-073,Sanjay Iyer,P-004,4K Monitor 27in,Electronics,8,329.0,210.0,0.0,North,Rep 4
+ORD-2043,31/07/2025,C-074,Priya Verma,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,North,Rep 2
+ORD-2044,2025-11-16,C-104,Priya Iyer,P-018,Desk Organiser,Office Supplies,8,27.0,10.0,0.2,South,Rep 1
+ORD-2045,2025-05-28,C-072,Pooja Rao,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.0,East,Rep 3
+ORD-2046,18/12/2025,C-053,Rohan Nair,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,East,Rep 5
+ORD-2047,2025-01-01,C-004,Sanjay Das,P-021,Cable Set,Accessories,1,19.0,6.0,0.05,South,Rep 3
+ORD-2048,2025-01-27,C-040,Divya Chopra,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,South,Rep 1
+ORD-2049,2025-04-28,C-074,Priya Verma,P-003,Mechanical Keyboard,Electronics,3,89.0,45.0,0.0,North,Rep 3
+ORD-2050,2025-04-12,C-115,Sneha Rao,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,South,Rep 6
+ORD-2051,08/03/2025,C-008,Manish Verma,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.05,West,Rep 6
+ORD-2052,"Oct 24, 2025",C-042,Ritu Singh,P-018,Desk Organiser,Office Supplies,3,27.0,10.0,0.1,North,Rep 3
+ORD-2053,2025-05-25,C-035,Divya Nair,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,West,Rep 4
+ORD-2054,"Jan 18, 2025",C-001,Priya Agarwal,P-008,Ergonomic Chair,Furniture,2,299.0,160.0,0.0,South,Rep 8
+ORD-2055,11/08/2025,C-109,Neha Rao,P-009,Bookshelf,Furniture,2,129.0,65.0,0.05,East,Rep 4
+ORD-2056,"May 20, 2025",C-084,Varun Singh,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,East,Rep 7
+ORD-2057,"Jun 19, 2025",C-119,Divya Das,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,South,Rep 3
+ORD-2058,2025-06-21,C-002,Priya Bose,P-024,Wireless Charger,Accessories,3,35.0,13.0,0.05,North,Rep 6
+ORD-2059,08/10/2025,C-088,Sneha Rao,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.05,North,Rep 5
+ORD-2060,2025-11-15,C-014,Ishita Bose,P-022,Webcam HD,Accessories,2,79.0,34.0,0.0,South,Rep 1
+ORD-2061,2025-10-29,C-015,Aditya Chopra,P-010,Filing Cabinet,Furniture,2,179.0,95.0,0.2,North,Rep 5
+ORD-2062,2025-07-16,C-066,Manish Khan,P-012,Conference Table,Furniture,1,899.0,520.0,0.05,South,Rep 4
+ORD-2063,2025-04-29,C-002,Priya Bose,P-010,Filing Cabinet,Furniture,4,179.0,95.0,0.0,North,Rep 6
+ORD-2064,2025-06-02,C-072,Pooja Rao,P-022,Webcam HD,Accessories,1,79.0,34.0,0.0,East,Rep 3
+ORD-2065,2025-03-23,C-054,Varun Agarwal,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,North,Rep 5
+ORD-2066,2025-03-04,C-060,Neha Pillai,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.0,West,Rep 2
+ORD-2067,"Jun 22, 2025",C-111,Sneha Chopra,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.1,North,Rep 2
+ORD-2068,2025-05-22,C-005,Ritu Joshi,P-015,Printer Paper A4,Office Supplies,2,24.0,11.0,0.1,West,Rep 4
+ORD-2069,2025-09-06,C-019,Divya Chopra,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.1,East,Rep 2
+ORD-2070,"Feb 07, 2025",C-114,Nikhil Mehta,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.0,North,Rep 2
+ORD-2071,2025-03-27,C-054,Varun Agarwal,P-020,Phone Case,Accessories,1,24.99,8.0,0.15,North,Rep 8
+ORD-2072,2025-09-10,C-009,Kavya Agarwal,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.15,North,Rep 4
+ORD-2073,2025-01-22,C-084,Varun Singh,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.1,East,Rep 1
+ORD-2074,2025-11-03,C-002,Priya Bose,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.0,North,Rep 5
+ORD-2075,11/01/2025,C-002,Priya Bose,P-015,Printer Paper A4,Office Supplies,3,24.0,11.0,0.0,North,Rep 6
+ORD-2076,16/10/2025,C-004,Sanjay Das,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.0,South,Rep 4
+ORD-2077,2025-11-14,C-066,Manish Khan,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.2,South,Rep 3
+ORD-2078,"Nov 30, 2025",C-088,Sneha Rao,P-022,Webcam HD,Accessories,5,79.0,34.0,0.2,North,Rep 6
+ORD-2079,2025-11-01,C-099,Sanjay Rao,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.0,West,Rep 8
+ORD-2080,2025-03-27,C-059,Sneha Khan,P-021,Cable Set,Accessories,1,19.0,6.0,0.05,North,Rep 7
+ORD-2081,"Sep 26, 2025",C-106,Manish Gupta,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.05,South,Rep 2
+ORD-2082,2025-11-16,C-115,Sneha Rao,P-022,Webcam HD,Accessories,2,79.0,34.0,0.0,South,Rep 1
+ORD-2083,2025-10-01,C-058,Aditya Menon,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.0,North,Rep 4
+ORD-2084,2025-11-22,C-008,Manish Verma,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.1,West,Rep 6
+ORD-2085,2025-06-10,C-031,Varun Khan,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.2,East,Rep 5
+ORD-2086,2025-07-06,C-093,Sanjay Gupta,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,South,Rep 4
+ORD-2087,2025-10-03,C-107,Vikram Nair,P-004,4K Monitor 27in,Electronics,5,329.0,210.0,0.15,West,Rep 4
+ORD-2088,"Apr 27, 2025",C-074,Priya Verma,P-024,Wireless Charger,Accessories,3,35.0,13.0,0.0,North,Rep 6
+ORD-2089,24/10/2025,C-113,Aditya Patel,P-017,Sticky Notes,Office Supplies,3,8.99,3.0,0.0,East,Rep 3
+ORD-2090,"Jul 17, 2025",C-042,Ritu Singh,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,North,Rep 5
+ORD-2091,"Sep 06, 2025",C-061,Sanjay Desai,P-009,Bookshelf,Furniture,1,129.0,65.0,0.1,West,Rep 3
+ORD-2092,2025-06-22,C-025,Neha Desai,P-010,Filing Cabinet,Furniture,2,179.0,95.0,0.15,North,Rep 3
+ORD-2093,2025-12-24,C-084,Varun Singh,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,East,Rep 3
+ORD-2094,2025-11-26,C-037,Priya Patel,P-020,Phone Case,Accessories,2,24.99,8.0,0.15,West,Rep 3
+ORD-2095,2025-10-17,C-018,Sanjay Sharma,P-016,Stapler Pro,Office Supplies,4,22.0,9.0,0.0,East,Rep 2
+ORD-2096,2025-12-25,C-024,Arjun Singh,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,North,Rep 2
+ORD-2097,2025-08-23,C-095,Pooja Reddy,P-004,4K Monitor 27in,Electronics,3,329.0,210.0,0.0,North,Rep 5
+ORD-2098,2025-11-06,C-015,Aditya Chopra,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,North,Rep 2
+ORD-2099,2025-10-07,C-115,Sneha Rao,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.05,South,Rep 2
+ORD-2100,2025-01-08,C-095,Pooja Reddy,P-013,Notebook Set,Office Supplies,5,19.99,7.0,0.0,North,Rep 8
+ORD-2101,2025-06-28,C-024,Arjun Singh,P-004,4K Monitor 27in,Electronics,4,329.0,210.0,0.05,North,Rep 3
+ORD-2102,27/07/2025,C-080,Aditya Agarwal,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.0,North,Rep 3
+ORD-2103,2025-06-07,C-057,Neha Gupta,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.0,West,Rep 4
+ORD-2104,2025-02-15,C-112,Nikhil Desai,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,North,Rep 7
+ORD-2105,19/11/2025,C-067,Aarav Khan,P-008,Ergonomic Chair,Furniture,2,299.0,160.0,0.15,North,Rep 7
+ORD-2106,2025-11-06,C-029,Arjun Sharma,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.0,North,Rep 1
+ORD-2107,2025-10-20,C-038,Manish Reddy,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,North,Rep 3
+ORD-2108,2025-09-16,C-093,Sanjay Gupta,P-018,Desk Organiser,Office Supplies,3,27.0,10.0,0.0,South,Rep 1
+ORD-2109,2025-04-04,C-093,Sanjay Gupta,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.0,South,Rep 5
+ORD-2110,19/11/2025,C-031,Varun Khan,P-021,Cable Set,Accessories,8,19.0,6.0,0.1,East,Rep 7
+ORD-2111,2025-08-25,C-119,Divya Das,P-010,Filing Cabinet,Furniture,2,179.0,95.0,0.0,South,Rep 1
+ORD-2112,2025-10-30,C-054,Varun Agarwal,P-012,Conference Table,Furniture,1,899.0,520.0,0.1,North,Rep 1
+ORD-2113,"Nov 24, 2025",C-092,Karan Kulkarni,P-012,Conference Table,Furniture,8,899.0,520.0,0.15,East,Rep 3
+ORD-2114,"Sep 13, 2025",C-002,Priya Bose,P-007,Standing Desk,Furniture,1,449.0,260.0,0.05,North,Rep 3
+ORD-2115,2025-03-09,C-106,Manish Gupta,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,South,Rep 4
+ORD-2116,"May 30, 2025",C-070,Aarav Bose,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,North,Rep 5
+ORD-2117,24/10/2025,C-002,Priya Bose,P-022,Webcam HD,Accessories,5,79.0,34.0,0.0,North,Rep 5
+ORD-2118,2025-08-13,C-099,Sanjay Rao,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.1,West,Rep 2
+ORD-2119,2025-07-06,C-092,Karan Kulkarni,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.0,East,Rep 3
+ORD-2120,2025-12-23,C-055,Neha Reddy,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,North,Rep 2
+ORD-2121,2025-05-04,C-002,Priya Bose,P-024,Wireless Charger,Accessories,2,35.0,13.0,0.0,North,Rep 3
+ORD-2122,2025-12-29,C-084,Varun Singh,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,East,Rep 4
+ORD-2123,2025-08-17,C-060,Neha Pillai,P-003,Mechanical Keyboard,Electronics,3,89.0,45.0,0.15,West,Rep 2
+ORD-2124,2025-12-10,C-061,Sanjay Desai,P-017,Sticky Notes,Office Supplies,4,8.99,3.0,0.0,West,Rep 1
+ORD-2125,2025-10-06,C-035,Divya Nair,P-014,Gel Pen Pack,Office Supplies,4,12.5,4.0,0.0,West,Rep 7
+ORD-2126,2025-02-01,C-015,Aditya Chopra,P-004,4K Monitor 27in,Electronics,4,329.0,210.0,0.0,North,Rep 5
+ORD-2127,2025-04-06,C-056,Nikhil Verma,P-022,Webcam HD,Accessories,1,79.0,34.0,0.0,West,Rep 8
+ORD-2128,2025-06-24,C-083,Ritu Joshi,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.05,South,Rep 7
+ORD-2129,2025-09-28,C-063,Karan Verma,P-022,Webcam HD,Accessories,2,79.0,34.0,0.05,North,Rep 4
+ORD-2130,31/08/2025,C-055,Neha Reddy,P-023,External SSD 1TB,Accessories,8,119.0,68.0,0.2,North,Rep 3
+ORD-2131,23/08/2025,C-093,Sanjay Gupta,P-020,Phone Case,Accessories,1,24.99,8.0,0.0,South,Rep 3
+ORD-2132,"Jan 02, 2025",C-117,Manish Kulkarni,P-021,Cable Set,Accessories,2,19.0,6.0,0.0,North,Rep 6
+ORD-2133,23/06/2025,C-099,Sanjay Rao,P-017,Sticky Notes,Office Supplies,10,8.99,3.0,0.0,West,Rep 2
+ORD-2134,2025-04-20,C-007,Pooja Rao,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,East,Rep 8
+ORD-2135,2025-03-09,C-092,Karan Kulkarni,P-007,Standing Desk,Furniture,1,449.0,260.0,0.1,East,Rep 2
+ORD-2136,15/02/2025,C-001,Priya Agarwal,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,South,Rep 2
+ORD-2137,"Dec 27, 2025",C-011,Varun Chopra,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.1,West,Rep 2
+ORD-2138,2025-04-20,C-099,Sanjay Rao,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,West,Rep 5
+ORD-2139,2025-12-06,C-074,Priya Verma,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.0,North,Rep 6
+ORD-2140,"Sep 20, 2025",C-004,Sanjay Das,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.1,South,Rep 4
+ORD-2141,21/02/2025,C-084,Varun Singh,P-007,Standing Desk,Furniture,3,449.0,260.0,0.0,East,Rep 1
+ORD-2142,2025-11-08,C-025,Neha Desai,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.0,North,Rep 1
+ORD-2143,2025-01-11,C-112,Nikhil Desai,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.05,North,Rep 8
+ORD-2144,2025-09-17,C-062,Divya Gupta,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,East,Rep 7
+ORD-2145,2025-10-29,C-054,Varun Agarwal,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.15,North,Rep 2
+ORD-2146,18/11/2025,C-032,Sneha Verma,P-018,Desk Organiser,Office Supplies,3,27.0,10.0,0.0,North,Rep 1
+ORD-2147,2025-11-16,C-046,Ananya Sharma,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,West,Rep 4
+ORD-2148,2025-09-22,C-014,Ishita Bose,P-009,Bookshelf,Furniture,4,129.0,65.0,0.0,South,Rep 1
+ORD-2149,2025-09-13,C-109,Neha Rao,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.1,East,Rep 2
+ORD-2150,"May 22, 2025",C-114,Nikhil Mehta,P-020,Phone Case,Accessories,2,24.99,8.0,0.0,North,Rep 5
+ORD-2151,2025-01-24,C-109,Neha Rao,P-011,Desk Lamp,Furniture,3,39.0,15.0,0.0,East,Rep 3
+ORD-2152,19/05/2025,C-010,Divya Sharma,P-012,Conference Table,Furniture,2,899.0,520.0,0.0,North,Rep 3
+ORD-2153,2025-12-26,C-010,Divya Sharma,P-015,Printer Paper A4,Office Supplies,2,24.0,11.0,0.0,North,Rep 2
+ORD-2154,2025-07-28,C-072,Pooja Rao,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.1,East,Rep 8
+ORD-2155,2025-09-02,C-073,Sanjay Iyer,P-008,Ergonomic Chair,Furniture,4,299.0,160.0,0.05,North,Rep 7
+ORD-2156,2025-08-31,C-055,Neha Reddy,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,North,Rep 1
+ORD-2157,2025-06-18,C-049,Nikhil Das,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.0,North,Rep 7
+ORD-2158,2025-08-14,C-099,Sanjay Rao,P-014,Gel Pen Pack,Office Supplies,4,12.5,4.0,0.1,West,Rep 4
+ORD-2159,2025-12-25,C-001,Priya Agarwal,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.1,South,Rep 3
+ORD-2160,2025-08-22,C-045,Neha Kulkarni,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,South,Rep 3
+ORD-2161,2025-08-26,C-062,Divya Gupta,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.05,East,Rep 1
+ORD-2162,"Apr 22, 2025",C-097,Varun Menon,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.0,North,Rep 3
+ORD-2163,2025-11-29,C-053,Rohan Nair,P-020,Phone Case,Accessories,1,24.99,8.0,0.0,East,Rep 5
+ORD-2164,2025-12-06,C-082,Arjun Menon,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.1,East,Rep 3
+ORD-2165,"Nov 08, 2025",C-050,Nikhil Menon,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,South,Rep 4
+ORD-2166,2025-12-25,C-061,Sanjay Desai,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,West,Rep 2
+ORD-2167,2025-10-06,C-048,Kavya Das,P-009,Bookshelf,Furniture,1,129.0,65.0,0.05,West,Rep 1
+ORD-2168,2025-09-11,C-060,Neha Pillai,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.1,West,Rep 2
+ORD-2169,2025-05-31,C-042,Ritu Singh,P-021,Cable Set,Accessories,2,19.0,6.0,0.0,North,Rep 6
+ORD-2170,2025-08-06,C-097,Varun Menon,P-024,Wireless Charger,Accessories,2,35.0,13.0,0.0,North,Rep 4
+ORD-2171,2025-09-15,C-058,Aditya Menon,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.15,North,Rep 7
+ORD-2172,2025-07-26,C-115,Sneha Rao,P-017,Sticky Notes,Office Supplies,3,8.99,3.0,0.0,South,Rep 6
+ORD-2173,17/05/2025,C-008,Manish Verma,P-007,Standing Desk,Furniture,2,449.0,260.0,0.0,West,Rep 6
+ORD-2174,"Mar 21, 2025",C-010,Divya Sharma,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.15,North,Rep 3
+ORD-2175,14/01/2025,C-067,Aarav Khan,P-012,Conference Table,Furniture,2,899.0,520.0,0.0,North,Rep 7
+ORD-2176,2025-08-29,C-093,Sanjay Gupta,P-019,Laptop Stand,Accessories,2,59.0,24.0,0.0,South,Rep 7
+ORD-2177,2025-06-10,C-016,Karan Rao,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.05,South,Rep 8
+ORD-2178,"Dec 02, 2025",C-084,Varun Singh,P-013,Notebook Set,Office Supplies,3,19.99,7.0,0.0,East,Rep 3
+ORD-2179,2025-02-02,C-027,Rohan Kulkarni,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.0,East,Rep 8
+ORD-2180,30/12/2025,C-046,Ananya Sharma,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,West,Rep 1
+ORD-2181,2025-04-07,C-042,Ritu Singh,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,North,Rep 2
+ORD-2182,2025-12-05,C-007,Pooja Rao,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.0,East,Rep 3
+ORD-2183,2025-01-18,C-076,Neha Mehta,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.05,North,Rep 5
+ORD-2184,2025-06-24,C-044,Sneha Kulkarni,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.0,North,Rep 8
+ORD-2185,2025-09-20,C-008,Manish Verma,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.05,West,Rep 4
+ORD-2186,"Nov 03, 2025",C-114,Nikhil Mehta,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,North,Rep 7
+ORD-2187,01/09/2025,C-073,Sanjay Iyer,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.0,North,Rep 2
+ORD-2188,"Mar 07, 2025",C-011,Varun Chopra,P-020,Phone Case,Accessories,1,24.99,8.0,0.05,West,Rep 5
+ORD-2189,2025-05-25,C-062,Divya Gupta,P-023,External SSD 1TB,Accessories,2,119.0,68.0,0.0,East,Rep 4
+ORD-2190,"Nov 08, 2025",C-093,Sanjay Gupta,P-020,Phone Case,Accessories,10,24.99,8.0,0.0,South,Rep 4
+ORD-2191,"Aug 23, 2025",C-079,Sneha Mehta,P-018,Desk Organiser,Office Supplies,3,27.0,10.0,0.05,East,Rep 8
+ORD-2192,2025-05-21,C-077,Rohan Joshi,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.1,North,Rep 2
+ORD-2193,2025-06-17,C-060,Neha Pillai,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,West,Rep 3
+ORD-2194,"Dec 07, 2025",C-039,Nikhil Khan,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.05,West,Rep 8
+ORD-2195,"Sep 27, 2025",C-075,Nikhil Bose,P-014,Gel Pen Pack,Office Supplies,2,12.5,4.0,0.15,West,Rep 5
+ORD-2196,28/01/2025,C-035,Divya Nair,P-007,Standing Desk,Furniture,2,449.0,260.0,0.0,West,Rep 3
+ORD-2197,"Jun 03, 2025",C-097,Varun Menon,P-015,Printer Paper A4,Office Supplies,3,24.0,11.0,0.05,North,Rep 6
+ORD-2198,"Nov 30, 2025",C-072,Pooja Rao,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.05,East,Rep 4
+ORD-2199,2025-07-08,C-037,Priya Patel,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.0,West,Rep 8
+ORD-2200,2025-05-24,C-019,Divya Chopra,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,East,Rep 8
+ORD-2201,31/07/2025,C-018,Sanjay Sharma,P-014,Gel Pen Pack,Office Supplies,2,12.5,4.0,0.0,East,Rep 7
+ORD-2202,"May 26, 2025",C-031,Varun Khan,P-021,Cable Set,Accessories,2,19.0,6.0,0.0,East,Rep 6
+ORD-2203,2025-03-24,C-099,Sanjay Rao,P-020,Phone Case,Accessories,2,24.99,8.0,0.2,West,Rep 8
+ORD-2204,2025-04-23,C-097,Varun Menon,P-024,Wireless Charger,Accessories,2,35.0,13.0,0.0,North,Rep 7
+ORD-2205,03/01/2025,C-004,Sanjay Das,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,South,Rep 8
+ORD-2206,"Jul 24, 2025",C-099,Sanjay Rao,P-004,4K Monitor 27in,Electronics,3,329.0,210.0,0.0,West,Rep 8
+ORD-2207,2025-10-13,C-093,Sanjay Gupta,P-021,Cable Set,Accessories,5,19.0,6.0,0.0,South,Rep 5
+ORD-2208,"Nov 30, 2025",C-056,Nikhil Verma,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,West,Rep 5
+ORD-2209,30/01/2025,C-118,Sneha Khan,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.05,South,Rep 2
+ORD-2210,2025-12-22,C-048,Kavya Das,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,West,Rep 5
+ORD-2211,2025-12-26,C-044,Sneha Kulkarni,P-024,Wireless Charger,Accessories,2,35.0,13.0,0.0,North,Rep 5
+ORD-2212,22/08/2025,C-031,Varun Khan,P-016,Stapler Pro,Office Supplies,4,22.0,9.0,0.0,East,Rep 5
+ORD-2213,2025-03-29,C-011,Varun Chopra,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.05,West,Rep 1
+ORD-2214,"Oct 12, 2025",C-108,Pooja Das,P-006,Noise-Cancelling Headphones,Electronics,2,199.0,110.0,0.0,North,Rep 4
+ORD-2215,2025-04-07,C-115,Sneha Rao,P-003,Mechanical Keyboard,Electronics,8,89.0,45.0,0.0,South,Rep 3
+ORD-2216,"Jul 20, 2025",C-037,Priya Patel,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,West,Rep 8
+ORD-2217,"Feb 23, 2025",C-048,Kavya Das,P-011,Desk Lamp,Furniture,4,39.0,15.0,0.0,West,Rep 5
+ORD-2218,2025-06-12,C-018,Sanjay Sharma,P-021,Cable Set,Accessories,1,19.0,6.0,0.0,East,Rep 4
+ORD-2219,2025-11-05,C-088,Sneha Rao,P-010,Filing Cabinet,Furniture,5,179.0,95.0,0.0,North,Rep 6
+ORD-2220,2025-09-15,C-027,Rohan Kulkarni,P-015,Printer Paper A4,Office Supplies,2,24.0,11.0,0.1,East,Rep 4
+ORD-2221,05/04/2025,C-120,Varun Agarwal,P-012,Conference Table,Furniture,1,899.0,520.0,0.2,South,Rep 7
+ORD-2222,2025-11-14,C-099,Sanjay Rao,P-022,Webcam HD,Accessories,2,79.0,34.0,0.1,West,Rep 2
+ORD-2223,22/04/2025,C-020,Nikhil Kulkarni,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,North,Rep 5
+ORD-2224,14/11/2025,C-097,Varun Menon,P-022,Webcam HD,Accessories,1,79.0,34.0,0.0,North,Rep 3
+ORD-2225,"Apr 08, 2025",C-001,Priya Agarwal,P-009,Bookshelf,Furniture,1,129.0,65.0,0.0,South,Rep 5
+ORD-2226,2025-01-26,C-035,Divya Nair,P-009,Bookshelf,Furniture,2,129.0,65.0,0.0,West,Rep 2
+ORD-2227,2025-03-04,C-115,Sneha Rao,P-009,Bookshelf,Furniture,2,129.0,65.0,0.05,South,Rep 5
+ORD-2228,2025-11-04,C-109,Neha Rao,P-015,Printer Paper A4,Office Supplies,2,24.0,11.0,0.0,East,Rep 3
+ORD-2229,2025-06-09,C-001,Priya Agarwal,P-016,Stapler Pro,Office Supplies,8,22.0,9.0,0.1,South,Rep 3
+ORD-2230,2025-12-31,C-040,Divya Chopra,P-020,Phone Case,Accessories,4,24.99,8.0,0.0,South,Rep 8
+ORD-2231,2025-09-15,C-013,Divya Iyer,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,South,Rep 6
+ORD-2232,28/02/2025,C-029,Arjun Sharma,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,North,Rep 3
+ORD-2233,2025-10-21,C-007,Pooja Rao,P-018,Desk Organiser,Office Supplies,4,27.0,10.0,0.05,East,Rep 3
+ORD-2234,21/10/2025,C-091,Manish Patel,P-008,Ergonomic Chair,Furniture,2,299.0,160.0,0.05,North,Rep 1
+ORD-2235,"Aug 14, 2025",C-099,Sanjay Rao,P-024,Wireless Charger,Accessories,3,35.0,13.0,0.1,West,Rep 8
+ORD-2236,2025-03-22,C-017,Vikram Bose,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,North,Rep 4
+ORD-2237,2025-12-12,C-054,Varun Agarwal,P-020,Phone Case,Accessories,2,24.99,8.0,0.0,North,Rep 5
+ORD-2238,2025-01-09,C-060,Neha Pillai,P-007,Standing Desk,Furniture,3,449.0,260.0,0.05,West,Rep 7
+ORD-2239,2025-01-03,C-009,Kavya Agarwal,P-009,Bookshelf,Furniture,8,129.0,65.0,0.15,North,Rep 3
+ORD-2240,17/04/2025,C-054,Varun Agarwal,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.0,North,Rep 1
+ORD-2241,2025-04-18,C-042,Ritu Singh,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.05,North,Rep 5
+ORD-2242,2025-04-22,C-066,Manish Khan,P-002,Wireless Mouse,Electronics,3,29.99,12.0,0.2,South,Rep 5
+ORD-2243,2025-11-28,C-084,Varun Singh,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.0,East,Rep 3
+ORD-2244,03/01/2025,C-119,Divya Das,P-022,Webcam HD,Accessories,1,79.0,34.0,0.0,South,Rep 1
+ORD-2245,"Mar 15, 2025",C-073,Sanjay Iyer,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.1,North,Rep 6
+ORD-2246,2025-08-23,C-100,Arjun Rao,P-021,Cable Set,Accessories,2,19.0,6.0,0.05,East,Rep 8
+ORD-2247,23/03/2025,C-026,Pooja Nair,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,North,Rep 2
+ORD-2248,2025-09-13,C-008,Manish Verma,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,West,Rep 7
+ORD-2249,04/05/2025,C-028,Karan Singh,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,East,Rep 5
+ORD-2250,27/10/2025,C-045,Neha Kulkarni,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.1,South,Rep 8
+ORD-2251,29/04/2025,C-084,Varun Singh,P-014,Gel Pen Pack,Office Supplies,4,12.5,4.0,0.0,East,Rep 8
+ORD-2252,27/11/2025,C-023,Priya Kulkarni,P-021,Cable Set,Accessories,2,19.0,6.0,0.0,North,Rep 5
+ORD-2253,2025-11-19,C-073,Sanjay Iyer,P-013,Notebook Set,Office Supplies,2,19.99,7.0,0.0,North,Rep 4
+ORD-2254,2025-12-05,C-085,Ananya Das,P-009,Bookshelf,Furniture,4,129.0,65.0,0.1,North,Rep 8
+ORD-2255,2025-01-10,C-066,Manish Khan,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,South,Rep 6
+ORD-2256,"Dec 07, 2025",C-044,Sneha Kulkarni,P-007,Standing Desk,Furniture,5,449.0,260.0,0.0,North,Rep 8
+ORD-2257,2025-10-02,C-095,Pooja Reddy,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.05,North,Rep 5
+ORD-2258,2025-10-12,C-088,Sneha Rao,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,North,Rep 2
+ORD-2259,"Dec 07, 2025",C-099,Sanjay Rao,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.0,West,Rep 2
+ORD-2260,"May 28, 2025",C-034,Arjun Pillai,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.05,West,Rep 6
+ORD-2261,2025-09-23,C-006,Divya Reddy,P-024,Wireless Charger,Accessories,5,35.0,13.0,0.05,South,Rep 4
+ORD-2262,2025-09-13,C-107,Vikram Nair,P-023,External SSD 1TB,Accessories,2,119.0,68.0,0.0,West,Rep 1
+ORD-2263,2025-10-29,C-012,Varun Verma,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,South,Rep 3
+ORD-2264,2025-06-10,C-073,Sanjay Iyer,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.1,North,Rep 1
+ORD-2265,2025-07-02,C-042,Ritu Singh,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,North,Rep 4
+ORD-2266,2025-12-12,C-092,Karan Kulkarni,P-014,Gel Pen Pack,Office Supplies,8,12.5,4.0,0.0,East,Rep 2
+ORD-2267,2025-06-19,C-026,Pooja Nair,P-007,Standing Desk,Furniture,4,449.0,260.0,0.0,North,Rep 6
+ORD-2268,05/06/2025,C-109,Neha Rao,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.0,East,Rep 6
+ORD-2269,2025-08-03,C-036,Ananya Chopra,P-022,Webcam HD,Accessories,4,79.0,34.0,0.0,South,Rep 3
+ORD-2270,2025-07-30,C-044,Sneha Kulkarni,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,North,Rep 1
+ORD-2271,"Mar 08, 2025",C-115,Sneha Rao,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.0,South,Rep 4
+ORD-2272,2025-10-01,C-014,Ishita Bose,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.0,South,Rep 6
+ORD-2273,"Dec 02, 2025",C-101,Aditya Agarwal,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,North,Rep 2
+ORD-2274,"Oct 28, 2025",C-112,Nikhil Desai,P-022,Webcam HD,Accessories,1,79.0,34.0,0.1,North,Rep 7
+ORD-2275,"Nov 09, 2025",C-065,Aarav Iyer,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,West,Rep 8
+ORD-2276,2025-06-19,C-044,Sneha Kulkarni,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.15,North,Rep 2
+ORD-2277,2025-02-20,C-099,Sanjay Rao,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,West,Rep 1
+ORD-2278,2025-04-04,C-033,Aditya Verma,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.05,North,Rep 8
+ORD-2279,2025-12-03,C-050,Nikhil Menon,P-021,Cable Set,Accessories,1,19.0,6.0,0.2,South,Rep 7
+ORD-2280,2025-07-31,C-032,Sneha Verma,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.0,North,Rep 7
+ORD-2281,"Dec 20, 2025",C-067,Aarav Khan,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.0,North,Rep 7
+ORD-2282,2025-10-11,C-007,Pooja Rao,P-004,4K Monitor 27in,Electronics,2,329.0,210.0,0.1,East,Rep 4
+ORD-2283,2025-11-26,C-056,Nikhil Verma,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,West,Rep 2
+ORD-2284,26/04/2025,C-059,Sneha Khan,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.2,North,Rep 5
+ORD-2285,22/08/2025,C-114,Nikhil Mehta,P-004,4K Monitor 27in,Electronics,4,329.0,210.0,0.05,North,Rep 6
+ORD-2286,2025-02-27,C-001,Priya Agarwal,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,South,Rep 1
+ORD-2287,08/12/2025,C-107,Vikram Nair,P-006,Noise-Cancelling Headphones,Electronics,3,199.0,110.0,0.05,West,Rep 2
+ORD-2288,20/01/2025,C-077,Rohan Joshi,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,North,Rep 3
+ORD-2289,10/04/2025,C-039,Nikhil Khan,P-012,Conference Table,Furniture,1,899.0,520.0,0.05,West,Rep 8
+ORD-2290,"Jul 31, 2025",C-092,Karan Kulkarni,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.05,East,Rep 5
+ORD-2291,2025-08-12,C-002,Priya Bose,P-012,Conference Table,Furniture,5,899.0,520.0,0.2,North,Rep 1
+ORD-2292,30/03/2025,C-020,Nikhil Kulkarni,P-023,External SSD 1TB,Accessories,2,119.0,68.0,0.0,North,Rep 8
+ORD-2293,2025-05-23,C-056,Nikhil Verma,P-020,Phone Case,Accessories,1,24.99,8.0,0.0,West,Rep 4
+ORD-2294,"Apr 23, 2025",C-054,Varun Agarwal,P-009,Bookshelf,Furniture,2,129.0,65.0,0.15,North,Rep 1
+ORD-2295,"Oct 22, 2025",C-038,Manish Reddy,P-014,Gel Pen Pack,Office Supplies,3,12.5,4.0,0.0,North,Rep 1
+ORD-2296,"Mar 10, 2025",C-002,Priya Bose,P-005,USB-C Hub,Electronics,10,45.0,18.0,0.1,North,Rep 1
+ORD-2297,2025-12-03,C-093,Sanjay Gupta,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.0,South,Rep 6
+ORD-2298,10/01/2025,C-060,Neha Pillai,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,West,Rep 8
+ORD-2299,2025-10-11,C-116,Neha Agarwal,P-013,Notebook Set,Office Supplies,4,19.99,7.0,0.05,West,Rep 5
+ORD-2300,2025-08-23,C-064,Meera Nair,P-008,Ergonomic Chair,Furniture,2,299.0,160.0,0.05,West,Rep 7
+ORD-2301,"Nov 24, 2025",C-081,Ananya Rao,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,East,Rep 1
+ORD-2302,2025-05-22,C-056,Nikhil Verma,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.0,West,Rep 5
+ORD-2303,23/10/2025,C-048,Kavya Das,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,West,Rep 1
+ORD-2304,2025-06-06,C-004,Sanjay Das,P-007,Standing Desk,Furniture,8,449.0,260.0,0.0,South,Rep 3
+ORD-2305,2025-02-25,C-034,Arjun Pillai,P-020,Phone Case,Accessories,5,24.99,8.0,0.0,West,Rep 6
+ORD-2306,2025-12-25,C-066,Manish Khan,P-022,Webcam HD,Accessories,2,79.0,34.0,0.0,South,Rep 3
+ORD-2307,03/01/2025,C-108,Pooja Das,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.0,North,Rep 2
+ORD-2308,2025-09-22,C-113,Aditya Patel,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.1,East,Rep 3
+ORD-2309,2025-12-07,C-038,Manish Reddy,P-022,Webcam HD,Accessories,1,79.0,34.0,0.0,North,Rep 3
+ORD-2310,28/11/2025,C-002,Priya Bose,P-016,Stapler Pro,Office Supplies,5,22.0,9.0,0.2,North,Rep 1
+ORD-2311,"Dec 17, 2025",C-005,Ritu Joshi,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,West,Rep 8
+ORD-2312,2025-12-04,C-002,Priya Bose,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,North,Rep 6
+ORD-2313,2025-03-10,C-099,Sanjay Rao,P-021,Cable Set,Accessories,2,19.0,6.0,0.0,West,Rep 2
+ORD-2314,2025-12-31,C-073,Sanjay Iyer,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.15,North,Rep 8
+ORD-2315,2025-11-06,C-073,Sanjay Iyer,P-020,Phone Case,Accessories,4,24.99,8.0,0.0,North,Rep 6
+ORD-2316,"Jun 11, 2025",C-072,Pooja Rao,P-001,Laptop Pro 14,Electronics,10,899.0,620.0,0.0,East,Rep 4
+ORD-2317,2025-12-02,C-119,Divya Das,P-014,Gel Pen Pack,Office Supplies,3,12.5,4.0,0.0,South,Rep 3
+ORD-2318,02/12/2025,C-097,Varun Menon,P-002,Wireless Mouse,Electronics,2,29.99,12.0,0.0,North,Rep 3
+ORD-2319,"Nov 05, 2025",C-038,Manish Reddy,P-010,Filing Cabinet,Furniture,2,179.0,95.0,0.05,North,Rep 7
+ORD-2320,2025-05-10,C-093,Sanjay Gupta,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,South,Rep 3
+ORD-2321,2025-12-17,C-110,Ishita Menon,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.1,East,Rep 5
+ORD-2322,2025-09-29,C-108,Pooja Das,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,North,Rep 6
+ORD-2323,17/12/2025,C-067,Aarav Khan,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,North,Rep 8
+ORD-2324,13/05/2025,C-084,Varun Singh,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.0,East,Rep 3
+ORD-2325,2025-05-09,C-084,Varun Singh,P-010,Filing Cabinet,Furniture,3,179.0,95.0,0.0,East,Rep 5
+ORD-2326,17/01/2025,C-026,Pooja Nair,P-005,USB-C Hub,Electronics,3,45.0,18.0,0.1,North,Rep 2
+ORD-2327,04/08/2025,C-054,Varun Agarwal,P-004,4K Monitor 27in,Electronics,10,329.0,210.0,0.05,North,Rep 8
+ORD-2328,04/03/2025,C-056,Nikhil Verma,P-020,Phone Case,Accessories,1,24.99,8.0,0.05,West,Rep 6
+ORD-2329,2025-12-29,C-019,Divya Chopra,P-013,Notebook Set,Office Supplies,5,19.99,7.0,0.0,East,Rep 4
+ORD-2330,"Jul 27, 2025",C-034,Arjun Pillai,P-014,Gel Pen Pack,Office Supplies,5,12.5,4.0,0.2,West,Rep 4
+ORD-2331,17/09/2025,C-056,Nikhil Verma,P-024,Wireless Charger,Accessories,4,35.0,13.0,0.0,West,Rep 7
+ORD-2332,2025-07-16,C-081,Ananya Rao,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,East,Rep 1
+ORD-2333,2025-06-12,C-029,Arjun Sharma,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.0,North,Rep 3
+ORD-2334,2025-11-12,C-009,Kavya Agarwal,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.0,North,Rep 8
+ORD-2335,07/09/2025,C-054,Varun Agarwal,P-014,Gel Pen Pack,Office Supplies,2,12.5,4.0,0.0,North,Rep 4
+ORD-2336,2025-05-30,C-079,Sneha Mehta,P-001,Laptop Pro 14,Electronics,3,899.0,620.0,0.0,East,Rep 3
+ORD-2337,23/04/2025,C-004,Sanjay Das,P-006,Noise-Cancelling Headphones,Electronics,2,199.0,110.0,0.1,South,Rep 7
+ORD-2338,"Jun 24, 2025",C-022,Priya Agarwal,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,East,Rep 7
+ORD-2339,2025-06-07,C-010,Divya Sharma,P-021,Cable Set,Accessories,1,19.0,6.0,0.05,North,Rep 2
+ORD-2340,2025-09-11,C-054,Varun Agarwal,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.1,North,Rep 5
+ORD-2341,2025-10-12,C-054,Varun Agarwal,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.0,North,Rep 5
+ORD-2342,"Jul 01, 2025",C-100,Arjun Rao,P-016,Stapler Pro,Office Supplies,3,22.0,9.0,0.0,East,Rep 1
+ORD-2343,07/09/2025,C-037,Priya Patel,P-013,Notebook Set,Office Supplies,3,19.99,7.0,0.1,West,Rep 3
+ORD-2344,2025-12-04,C-106,Manish Gupta,P-023,External SSD 1TB,Accessories,5,119.0,68.0,0.0,South,Rep 5
+ORD-2345,21/05/2025,C-067,Aarav Khan,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.15,North,Rep 3
+ORD-2346,2025-04-26,C-073,Sanjay Iyer,P-008,Ergonomic Chair,Furniture,3,299.0,160.0,0.0,North,Rep 3
+ORD-2347,25/09/2025,C-004,Sanjay Das,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,South,Rep 8
+ORD-2348,2025-09-22,C-054,Varun Agarwal,P-011,Desk Lamp,Furniture,4,39.0,15.0,0.0,North,Rep 5
+ORD-2349,2025-10-21,C-038,Manish Reddy,P-017,Sticky Notes,Office Supplies,2,8.99,3.0,0.0,North,Rep 4
+ORD-2350,"Dec 22, 2025",C-083,Ritu Joshi,P-023,External SSD 1TB,Accessories,2,119.0,68.0,0.0,South,Rep 3
+ORD-2351,2025-07-17,C-019,Divya Chopra,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.05,East,Rep 6
+ORD-2352,2025-04-11,C-107,Vikram Nair,P-002,Wireless Mouse,Electronics,1,29.99,12.0,0.0,West,Rep 6
+ORD-2353,2025-05-23,C-058,Aditya Menon,P-020,Phone Case,Accessories,1,24.99,8.0,0.05,North,Rep 7
+ORD-2354,2025-05-17,C-114,Nikhil Mehta,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,North,Rep 6
+ORD-2355,2025-04-14,C-066,Manish Khan,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,South,Rep 6
+ORD-2356,24/12/2025,C-056,Nikhil Verma,P-017,Sticky Notes,Office Supplies,2,8.99,3.0,0.0,West,Rep 4
+ORD-2357,2025-12-28,C-025,Neha Desai,P-007,Standing Desk,Furniture,3,449.0,260.0,0.0,North,Rep 7
+ORD-2358,20/03/2025,C-117,Manish Kulkarni,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.05,North,Rep 3
+ORD-2359,2025-05-17,C-033,Aditya Verma,P-015,Printer Paper A4,Office Supplies,2,24.0,11.0,0.05,North,Rep 3
+ORD-2360,2025-11-26,C-035,Divya Nair,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.0,West,Rep 1
+ORD-2361,2025-07-19,C-037,Priya Patel,P-007,Standing Desk,Furniture,1,449.0,260.0,0.05,West,Rep 5
+ORD-2362,2025-11-15,C-068,Arjun Pillai,P-022,Webcam HD,Accessories,1,79.0,34.0,0.1,South,Rep 3
+ORD-2363,"Apr 11, 2025",C-105,Aditya Reddy,P-005,USB-C Hub,Electronics,3,45.0,18.0,0.05,South,Rep 1
+ORD-2364,24/02/2025,C-059,Sneha Khan,P-003,Mechanical Keyboard,Electronics,2,89.0,45.0,0.0,North,Rep 8
+ORD-2365,"Aug 18, 2025",C-083,Ritu Joshi,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,South,Rep 3
+ORD-2366,2025-02-04,C-063,Karan Verma,P-023,External SSD 1TB,Accessories,2,119.0,68.0,0.1,North,Rep 1
+ORD-2367,17/12/2025,C-035,Divya Nair,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,West,Rep 6
+ORD-2368,2025-01-25,C-044,Sneha Kulkarni,P-020,Phone Case,Accessories,1,24.99,8.0,0.05,North,Rep 4
+ORD-2369,"Jul 30, 2025",C-111,Sneha Chopra,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.0,North,Rep 4
+ORD-2370,2025-09-12,C-069,Varun Sharma,P-005,USB-C Hub,Electronics,8,45.0,18.0,0.0,North,Rep 3
+ORD-2371,2025-08-31,C-114,Nikhil Mehta,P-009,Bookshelf,Furniture,2,129.0,65.0,0.2,North,Rep 2
+ORD-2372,2025-08-29,C-102,Arjun Menon,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.2,West,Rep 2
+ORD-2373,13/06/2025,C-107,Vikram Nair,P-004,4K Monitor 27in,Electronics,5,329.0,210.0,0.2,West,Rep 8
+ORD-2374,2025-01-21,C-114,Nikhil Mehta,P-008,Ergonomic Chair,Furniture,2,299.0,160.0,0.0,North,Rep 7
+ORD-2375,13/08/2025,C-105,Aditya Reddy,P-020,Phone Case,Accessories,1,24.99,8.0,0.0,South,Rep 4
+ORD-2376,2025-01-02,C-083,Ritu Joshi,P-020,Phone Case,Accessories,2,24.99,8.0,0.0,South,Rep 7
+ORD-2377,2025-08-30,C-039,Nikhil Khan,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,West,Rep 2
+ORD-2378,2025-08-30,C-018,Sanjay Sharma,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.0,East,Rep 5
+ORD-2379,2025-04-14,C-114,Nikhil Mehta,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.0,North,Rep 8
+ORD-2380,"Sep 11, 2025",C-073,Sanjay Iyer,P-007,Standing Desk,Furniture,1,449.0,260.0,0.1,North,Rep 7
+ORD-2381,25/05/2025,C-032,Sneha Verma,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.15,North,Rep 2
+ORD-2382,17/04/2025,C-083,Ritu Joshi,P-022,Webcam HD,Accessories,1,79.0,34.0,0.1,South,Rep 6
+ORD-2383,2025-11-17,C-007,Pooja Rao,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.05,East,Rep 2
+ORD-2384,26/07/2025,C-001,Priya Agarwal,P-006,Noise-Cancelling Headphones,Electronics,4,199.0,110.0,0.1,South,Rep 5
+ORD-2385,2025-12-04,C-055,Neha Reddy,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.15,North,Rep 8
+ORD-2386,2025-12-24,C-097,Varun Menon,P-019,Laptop Stand,Accessories,5,59.0,24.0,0.15,North,Rep 7
+ORD-2387,2025-11-20,C-066,Manish Khan,P-016,Stapler Pro,Office Supplies,5,22.0,9.0,0.0,South,Rep 7
+ORD-2388,2025-01-23,C-044,Sneha Kulkarni,P-009,Bookshelf,Furniture,2,129.0,65.0,0.0,North,Rep 6
+ORD-2389,"Aug 07, 2025",C-109,Neha Rao,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.0,East,Rep 7
+ORD-2390,"Sep 29, 2025",C-064,Meera Nair,P-006,Noise-Cancelling Headphones,Electronics,4,199.0,110.0,0.0,West,Rep 3
+ORD-2391,2025-10-05,C-082,Arjun Menon,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,East,Rep 2
+ORD-2392,2025-10-21,C-085,Ananya Das,P-008,Ergonomic Chair,Furniture,2,299.0,160.0,0.0,North,Rep 5
+ORD-2393,17/12/2025,C-053,Rohan Nair,P-007,Standing Desk,Furniture,1,449.0,260.0,0.0,East,Rep 4
+ORD-2394,2025-10-09,C-115,Sneha Rao,P-021,Cable Set,Accessories,2,19.0,6.0,0.0,South,Rep 2
+ORD-2395,2025-05-10,C-001,Priya Agarwal,P-014,Gel Pen Pack,Office Supplies,4,12.5,4.0,0.0,South,Rep 4
+ORD-2396,2025-02-04,C-104,Priya Iyer,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.1,South,Rep 8
+ORD-2397,2025-12-12,C-026,Pooja Nair,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.2,North,Rep 5
+ORD-2398,25/09/2025,C-051,Meera Rao,P-010,Filing Cabinet,Furniture,5,179.0,95.0,0.05,West,Rep 7
+ORD-2399,2025-08-18,C-067,Aarav Khan,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.05,North,Rep 8
+ORD-2400,2025-09-08,C-029,Arjun Sharma,P-005,USB-C Hub,Electronics,3,45.0,18.0,0.15,North,Rep 3
+ORD-2401,2025-02-24,C-053,Rohan Nair,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.2,East,Rep 4
+ORD-2402,2025-07-29,C-029,Arjun Sharma,P-009,Bookshelf,Furniture,10,129.0,65.0,0.0,North,Rep 7
+ORD-2403,11/04/2025,C-118,Sneha Khan,P-001,Laptop Pro 14,Electronics,10,899.0,620.0,0.0,South,Rep 5
+ORD-2404,2025-02-01,C-067,Aarav Khan,P-019,Laptop Stand,Accessories,3,59.0,24.0,0.15,North,Rep 2
+ORD-2405,2025-07-03,C-008,Manish Verma,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,West,Rep 3
+ORD-2406,"Dec 29, 2025",C-004,Sanjay Das,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.0,South,Rep 3
+ORD-2407,2025-12-12,C-024,Arjun Singh,P-011,Desk Lamp,Furniture,1,39.0,15.0,0.05,North,Rep 6
+ORD-2408,2025-09-28,C-002,Priya Bose,P-019,Laptop Stand,Accessories,4,59.0,24.0,0.05,North,Rep 3
+ORD-2409,"May 01, 2025",C-033,Aditya Verma,P-015,Printer Paper A4,Office Supplies,5,24.0,11.0,0.05,North,Rep 2
+ORD-2410,2025-12-14,C-069,Varun Sharma,P-020,Phone Case,Accessories,1,24.99,8.0,0.05,North,Rep 3
+ORD-2411,2025-08-14,C-085,Ananya Das,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.15,North,Rep 3
+ORD-2412,17/06/2025,C-084,Varun Singh,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.05,East,Rep 8
+ORD-2413,2025-11-02,C-102,Arjun Menon,P-022,Webcam HD,Accessories,1,79.0,34.0,0.0,West,Rep 5
+ORD-2414,2025-01-18,C-097,Varun Menon,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,North,Rep 3
+ORD-2415,"May 17, 2025",C-072,Pooja Rao,P-007,Standing Desk,Furniture,2,449.0,260.0,0.0,East,Rep 2
+ORD-2416,2025-11-10,C-007,Pooja Rao,P-015,Printer Paper A4,Office Supplies,2,24.0,11.0,0.0,East,Rep 5
+ORD-2417,31/08/2025,C-118,Sneha Khan,P-022,Webcam HD,Accessories,4,79.0,34.0,0.0,South,Rep 2
+ORD-2418,2025-05-19,C-050,Nikhil Menon,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,South,Rep 8
+ORD-2419,2025-09-18,C-082,Arjun Menon,P-010,Filing Cabinet,Furniture,8,179.0,95.0,0.0,East,Rep 4
+ORD-2420,2025-12-21,C-083,Ritu Joshi,P-006,Noise-Cancelling Headphones,Electronics,2,199.0,110.0,0.0,South,Rep 8
+ORD-2421,"Aug 31, 2025",C-067,Aarav Khan,P-022,Webcam HD,Accessories,2,79.0,34.0,0.0,North,Rep 3
+ORD-2422,2025-10-18,C-060,Neha Pillai,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.15,West,Rep 8
+ORD-2423,"Jun 14, 2025",C-073,Sanjay Iyer,P-009,Bookshelf,Furniture,3,129.0,65.0,0.05,North,Rep 7
+ORD-2424,"Feb 18, 2025",C-114,Nikhil Mehta,P-021,Cable Set,Accessories,2,19.0,6.0,0.05,North,Rep 7
+ORD-2425,"Jun 28, 2025",C-024,Arjun Singh,P-006,Noise-Cancelling Headphones,Electronics,1,199.0,110.0,0.2,North,Rep 3
+ORD-2426,2025-08-20,C-039,Nikhil Khan,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.0,West,Rep 7
+ORD-2427,"Dec 20, 2025",C-054,Varun Agarwal,P-016,Stapler Pro,Office Supplies,8,22.0,9.0,0.05,North,Rep 5
+ORD-2428,"Apr 09, 2025",C-004,Sanjay Das,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.0,South,Rep 7
+ORD-2429,2025-05-07,C-099,Sanjay Rao,P-020,Phone Case,Accessories,1,24.99,8.0,0.15,West,Rep 3
+ORD-2430,2025-02-28,C-084,Varun Singh,P-004,4K Monitor 27in,Electronics,5,329.0,210.0,0.05,East,Rep 2
+ORD-2431,2025-03-29,C-114,Nikhil Mehta,P-006,Noise-Cancelling Headphones,Electronics,2,199.0,110.0,0.15,North,Rep 1
+ORD-2432,10/12/2025,C-061,Sanjay Desai,P-014,Gel Pen Pack,Office Supplies,1,12.5,4.0,0.0,West,Rep 1
+ORD-2433,2025-12-30,C-045,Neha Kulkarni,P-023,External SSD 1TB,Accessories,5,119.0,68.0,0.0,South,Rep 2
+ORD-2434,2025-01-30,C-050,Nikhil Menon,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.0,South,Rep 7
+ORD-2435,13/11/2025,C-082,Arjun Menon,P-018,Desk Organiser,Office Supplies,1,27.0,10.0,0.1,East,Rep 2
+ORD-2436,2025-10-19,C-067,Aarav Khan,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.1,North,Rep 4
+ORD-2437,15/09/2025,C-116,Neha Agarwal,P-023,External SSD 1TB,Accessories,5,119.0,68.0,0.0,West,Rep 6
+ORD-2438,2025-05-21,C-058,Aditya Menon,P-010,Filing Cabinet,Furniture,8,179.0,95.0,0.05,North,Rep 8
+ORD-2439,29/05/2025,C-054,Varun Agarwal,P-007,Standing Desk,Furniture,3,449.0,260.0,0.15,North,Rep 3
+ORD-2440,2025-07-07,C-071,Varun Bose,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.0,South,Rep 6
+ORD-2441,"Jun 10, 2025",C-112,Nikhil Desai,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,North,Rep 6
+ORD-2442,2025-12-17,C-056,Nikhil Verma,P-018,Desk Organiser,Office Supplies,2,27.0,10.0,0.0,West,Rep 7
+ORD-2443,2025-04-24,C-001,Priya Agarwal,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.05,South,Rep 4
+ORD-2444,02/04/2025,C-056,Nikhil Verma,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.05,West,Rep 4
+ORD-2445,2025-05-29,C-117,Manish Kulkarni,P-017,Sticky Notes,Office Supplies,4,8.99,3.0,0.0,North,Rep 1
+ORD-2446,2025-05-06,C-024,Arjun Singh,P-013,Notebook Set,Office Supplies,5,19.99,7.0,0.15,North,Rep 6
+ORD-2447,20/06/2025,C-002,Priya Bose,P-008,Ergonomic Chair,Furniture,2,299.0,160.0,0.0,North,Rep 8
+ORD-2448,23/11/2025,C-026,Pooja Nair,P-021,Cable Set,Accessories,2,19.0,6.0,0.1,North,Rep 7
+ORD-2449,2025-03-22,C-074,Priya Verma,P-012,Conference Table,Furniture,1,899.0,520.0,0.0,North,Rep 2
+ORD-2450,2025-09-23,C-102,Arjun Menon,P-009,Bookshelf,Furniture,1,129.0,65.0,0.05,West,Rep 4
+ORD-2451,2025-08-10,C-081,Ananya Rao,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.1,East,Rep 5
+ORD-2452,2025-09-01,C-014,Ishita Bose,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.15,South,Rep 4
+ORD-2453,2025-11-05,C-024,Arjun Singh,P-022,Webcam HD,Accessories,2,79.0,34.0,0.1,North,Rep 6
+ORD-2454,2025-02-18,C-109,Neha Rao,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.15,East,Rep 4
+ORD-2455,2025-05-30,C-066,Manish Khan,P-012,Conference Table,Furniture,10,899.0,520.0,0.0,South,Rep 7
+ORD-2456,2025-05-16,C-010,Divya Sharma,P-008,Ergonomic Chair,Furniture,2,299.0,160.0,0.0,North,Rep 8
+ORD-2457,2025-09-04,C-067,Aarav Khan,P-010,Filing Cabinet,Furniture,3,179.0,95.0,0.1,North,Rep 4
+ORD-2458,2025-06-18,C-059,Sneha Khan,P-004,4K Monitor 27in,Electronics,1,329.0,210.0,0.0,North,Rep 5
+ORD-2459,2025-06-04,C-118,Sneha Khan,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.0,South,Rep 5
+ORD-2460,2025-09-17,C-054,Varun Agarwal,P-009,Bookshelf,Furniture,2,129.0,65.0,0.0,North,Rep 1
+ORD-2461,2025-08-03,C-095,Pooja Reddy,P-013,Notebook Set,Office Supplies,10,19.99,7.0,0.1,North,Rep 5
+ORD-2462,"Mar 13, 2025",C-070,Aarav Bose,P-013,Notebook Set,Office Supplies,5,19.99,7.0,0.1,North,Rep 3
+ORD-2463,2025-10-03,C-107,Vikram Nair,P-005,USB-C Hub,Electronics,2,45.0,18.0,0.05,West,Rep 5
+ORD-2464,2025-09-05,C-038,Manish Reddy,P-008,Ergonomic Chair,Furniture,4,299.0,160.0,0.15,North,Rep 8
+ORD-2465,2025-05-15,C-007,Pooja Rao,P-021,Cable Set,Accessories,1,19.0,6.0,0.1,East,Rep 6
+ORD-2466,2025-12-22,C-044,Sneha Kulkarni,P-008,Ergonomic Chair,Furniture,3,299.0,160.0,0.0,North,Rep 5
+ORD-2467,2025-08-19,C-001,Priya Agarwal,P-024,Wireless Charger,Accessories,1,35.0,13.0,0.15,South,Rep 6
+ORD-2468,2025-10-20,C-099,Sanjay Rao,P-007,Standing Desk,Furniture,3,449.0,260.0,0.15,West,Rep 2
+ORD-2469,"Oct 21, 2025",C-039,Nikhil Khan,P-005,USB-C Hub,Electronics,1,45.0,18.0,0.0,West,Rep 7
+ORD-2470,09/01/2025,C-054,Varun Agarwal,P-015,Printer Paper A4,Office Supplies,1,24.0,11.0,0.1,North,Rep 8
+ORD-2471,2025-02-07,C-015,Aditya Chopra,P-023,External SSD 1TB,Accessories,8,119.0,68.0,0.0,North,Rep 1
+ORD-2472,18/12/2025,C-109,Neha Rao,P-014,Gel Pen Pack,Office Supplies,2,12.5,4.0,0.15,East,Rep 4
+ORD-2473,2025-09-13,C-105,Aditya Reddy,P-016,Stapler Pro,Office Supplies,2,22.0,9.0,0.0,South,Rep 4
+ORD-2474,2025-07-18,C-061,Sanjay Desai,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.1,West,Rep 7
+ORD-2475,2025-01-11,C-035,Divya Nair,P-010,Filing Cabinet,Furniture,1,179.0,95.0,0.1,West,Rep 4
+ORD-2476,2025-04-25,C-100,Arjun Rao,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.1,East,Rep 7
+ORD-2477,2025-10-24,C-104,Priya Iyer,P-014,Gel Pen Pack,Office Supplies,5,12.5,4.0,0.0,South,Rep 7
+ORD-2478,"Oct 01, 2025",C-025,Neha Desai,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.15,North,Rep 8
+ORD-2479,2025-07-27,C-015,Aditya Chopra,P-015,Printer Paper A4,Office Supplies,5,24.0,11.0,0.0,North,Rep 1
+ORD-2480,2025-01-08,C-097,Varun Menon,P-020,Phone Case,Accessories,2,24.99,8.0,0.05,North,Rep 3
+ORD-2481,2025-08-11,C-030,Kavya Das,P-007,Standing Desk,Furniture,5,449.0,260.0,0.1,North,Rep 3
+ORD-2482,"Jul 27, 2025",C-059,Sneha Khan,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,North,Rep 5
+ORD-2483,2025-03-10,C-066,Manish Khan,P-023,External SSD 1TB,Accessories,1,119.0,68.0,0.05,South,Rep 3
+ORD-2484,2025-12-22,C-053,Rohan Nair,P-009,Bookshelf,Furniture,4,129.0,65.0,0.1,East,Rep 2
+ORD-2485,"Oct 15, 2025",C-034,Arjun Pillai,P-017,Sticky Notes,Office Supplies,2,8.99,3.0,0.0,West,Rep 2
+ORD-2486,2025-12-12,C-093,Sanjay Gupta,P-016,Stapler Pro,Office Supplies,1,22.0,9.0,0.15,South,Rep 6
+ORD-2487,"Apr 16, 2025",C-020,Nikhil Kulkarni,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.0,North,Rep 8
+ORD-2488,18/05/2025,C-060,Neha Pillai,P-021,Cable Set,Accessories,2,19.0,6.0,0.05,West,Rep 6
+ORD-2489,2025-08-25,C-076,Neha Mehta,P-016,Stapler Pro,Office Supplies,3,22.0,9.0,0.05,North,Rep 7
+ORD-2490,04/03/2025,C-082,Arjun Menon,P-021,Cable Set,Accessories,1,19.0,6.0,0.15,East,Rep 8
+ORD-2491,2025-04-11,C-107,Vikram Nair,P-008,Ergonomic Chair,Furniture,1,299.0,160.0,0.0,West,Rep 3
+ORD-2492,03/12/2025,C-056,Nikhil Verma,P-020,Phone Case,Accessories,3,24.99,8.0,0.05,West,Rep 6
+ORD-2493,03/11/2025,C-052,Arjun Kulkarni,P-023,External SSD 1TB,Accessories,8,119.0,68.0,0.0,North,Rep 1
+ORD-2494,2025-04-17,C-073,Sanjay Iyer,P-001,Laptop Pro 14,Electronics,2,899.0,620.0,0.0,North,Rep 3
+ORD-2495,2025-01-01,C-106,Manish Gupta,P-013,Notebook Set,Office Supplies,1,19.99,7.0,0.0,South,Rep 4
+ORD-2496,2025-07-12,C-074,Priya Verma,P-001,Laptop Pro 14,Electronics,1,899.0,620.0,0.15,North,Rep 3
+ORD-2497,01/02/2025,C-097,Varun Menon,P-011,Desk Lamp,Furniture,2,39.0,15.0,0.05,North,Rep 4
+ORD-2498,2025-06-13,C-063,Karan Verma,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.2,North,Rep 4
+ORD-2499,"Jun 17, 2025",C-028,Karan Singh,P-016,Stapler Pro,Office Supplies,3,22.0,9.0,0.0,East,Rep 2
+ORD-2116,"May 30, 2025",C-070,Aarav Bose,P-017,Sticky Notes,Office Supplies,1,8.99,3.0,0.0,North,Rep 5
+ORD-2368,2025-01-25,C-044,Sneha Kulkarni,P-020,Phone Case,Accessories,1,24.99,8.0,0.05,North,Rep 4
+ORD-1422,2025-11-19,C-015,Aditya Chopra,P-003,Mechanical Keyboard,Electronics,1,89.0,45.0,0.05,North,Rep 3
+ORD-1413,2025-11-29,C-073,Sanjay Iyer,P-012,Conference Table,Furniture,2,899.0,520.0,0.0,North,Rep 4
+ORD-1451,2025-06-22,C-054,Varun Agarwal,P-019,Laptop Stand,Accessories,1,59.0,24.0,0.0,North,Rep 5
+ORD-1000,2025-12-12,C-010,Divya Sharma,P-019,Laptop Stand,Accessories,-2,59.0,24.0,0.05,North,Rep 6
+ORD-1001,"Oct 24, 2025",C-081,Ananya Rao,P-011,Desk Lamp,Furniture,1,-50.0,15.0,0.15,East,Rep 7
